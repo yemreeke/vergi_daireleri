@@ -16,7 +16,7 @@
 
   
 
-## JSON
+## JSON
 - JSON dosyası aşağıdaki verileri içermektedir.
 
 ```json
