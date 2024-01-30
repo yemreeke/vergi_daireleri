@@ -1,0 +1,8370 @@
+[
+  {
+    "id": 1,
+    "plaka": 1,
+    "il": "ADANA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 1250,
+    "daire": "Adana İhtisas Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 2,
+    "plaka": 1,
+    "il": "ADANA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 1251,
+    "daire": "5 Ocak Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 3,
+    "plaka": 1,
+    "il": "ADANA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 1252,
+    "daire": "Yüreğir Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 4,
+    "plaka": 1,
+    "il": "ADANA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 1253,
+    "daire": "Seyhan Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 5,
+    "plaka": 1,
+    "il": "ADANA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 1254,
+    "daire": "Ziyapaşa Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 6,
+    "plaka": 1,
+    "il": "ADANA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 1255,
+    "daire": "Çukurova Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 7,
+    "plaka": 1,
+    "il": "ADANA",
+    "ilce": "Ceyhan",
+    "muhbir_kodu": 1201,
+    "daire": "Ceyhan Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 8,
+    "plaka": 1,
+    "il": "ADANA",
+    "ilce": "Kozan",
+    "muhbir_kodu": 1203,
+    "daire": "Kozan Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 9,
+    "plaka": 1,
+    "il": "ADANA",
+    "ilce": "Karataş",
+    "muhbir_kodu": 1205,
+    "daire": "Karataş Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 10,
+    "plaka": 1,
+    "il": "ADANA",
+    "ilce": "Feke",
+    "muhbir_kodu": 1103,
+    "daire": "Feke Malmüdürlüğü"
+  },
+  {
+    "id": 11,
+    "plaka": 1,
+    "il": "ADANA",
+    "ilce": "Karaisalı",
+    "muhbir_kodu": 1105,
+    "daire": "Karaisalı Malmüdürlüğü"
+  },
+  {
+    "id": 12,
+    "plaka": 1,
+    "il": "ADANA",
+    "ilce": "Pozantı",
+    "muhbir_kodu": 1109,
+    "daire": "Pozantı Malmüdürlüğü"
+  },
+  {
+    "id": 13,
+    "plaka": 1,
+    "il": "ADANA",
+    "ilce": "Saimbeyli",
+    "muhbir_kodu": 1110,
+    "daire": "Saimbeyli Malmüdürlüğü"
+  },
+  {
+    "id": 14,
+    "plaka": 1,
+    "il": "ADANA",
+    "ilce": "Tufanbeyli",
+    "muhbir_kodu": 1111,
+    "daire": "Tufanbeyli Malmüdürlüğü"
+  },
+  {
+    "id": 15,
+    "plaka": 1,
+    "il": "ADANA",
+    "ilce": "Yumurtalık",
+    "muhbir_kodu": 1112,
+    "daire": "Yumurtalık Malmüdürlüğü"
+  },
+  {
+    "id": 16,
+    "plaka": 1,
+    "il": "ADANA",
+    "ilce": "Aladağ",
+    "muhbir_kodu": 1114,
+    "daire": "Aladağ Malmüdürlüğü"
+  },
+  {
+    "id": 17,
+    "plaka": 1,
+    "il": "ADANA",
+    "ilce": "İmamoğlu",
+    "muhbir_kodu": 1115,
+    "daire": "İmamoğlu Malmüdürlüğü"
+  },
+  {
+    "id": 18,
+    "plaka": 2,
+    "il": "ADIYAMAN",
+    "ilce": "Merkez",
+    "muhbir_kodu": 2260,
+    "daire": "Adıyaman Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 19,
+    "plaka": 2,
+    "il": "ADIYAMAN",
+    "ilce": "Kahta",
+    "muhbir_kodu": 2261,
+    "daire": "Kahta Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 20,
+    "plaka": 2,
+    "il": "ADIYAMAN",
+    "ilce": "Besni",
+    "muhbir_kodu": 2101,
+    "daire": "Besni Malmüdürlüğü"
+  },
+  {
+    "id": 21,
+    "plaka": 2,
+    "il": "ADIYAMAN",
+    "ilce": "Çelikhan",
+    "muhbir_kodu": 2102,
+    "daire": "Çelikhan Malmüdürlüğü"
+  },
+  {
+    "id": 22,
+    "plaka": 2,
+    "il": "ADIYAMAN",
+    "ilce": "Gerger",
+    "muhbir_kodu": 2103,
+    "daire": "Gerger Malmüdürlüğü"
+  },
+  {
+    "id": 23,
+    "plaka": 2,
+    "il": "ADIYAMAN",
+    "ilce": "Gölbaşı",
+    "muhbir_kodu": 2104,
+    "daire": "Gölbaşı Malmüdürlüğü"
+  },
+  {
+    "id": 24,
+    "plaka": 2,
+    "il": "ADIYAMAN",
+    "ilce": "Samsat",
+    "muhbir_kodu": 2106,
+    "daire": "Samsat Malmüdürlüğü"
+  },
+  {
+    "id": 25,
+    "plaka": 2,
+    "il": "ADIYAMAN",
+    "ilce": "Sincik",
+    "muhbir_kodu": 2107,
+    "daire": "Sincik Malmüdürlüğü"
+  },
+  {
+    "id": 26,
+    "plaka": 2,
+    "il": "ADIYAMAN",
+    "ilce": "Tut",
+    "muhbir_kodu": 2108,
+    "daire": "Tut Malmüdürlüğü"
+  },
+  {
+    "id": 27,
+    "plaka": 3,
+    "il": "AFYONKARAHİSAR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 3201,
+    "daire": "Tınaztepe Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 28,
+    "plaka": 3,
+    "il": "AFYONKARAHİSAR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 3280,
+    "daire": "Kocatepe Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 29,
+    "plaka": 3,
+    "il": "AFYONKARAHİSAR",
+    "ilce": "Dinar",
+    "muhbir_kodu": 3260,
+    "daire": "Dinar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 30,
+    "plaka": 3,
+    "il": "AFYONKARAHİSAR",
+    "ilce": "Bolvadin",
+    "muhbir_kodu": 3261,
+    "daire": "Bolvadin Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 31,
+    "plaka": 3,
+    "il": "AFYONKARAHİSAR",
+    "ilce": "Emirdağ",
+    "muhbir_kodu": 3262,
+    "daire": "Emirdağ Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 32,
+    "plaka": 3,
+    "il": "AFYONKARAHİSAR",
+    "ilce": "Sandıklı",
+    "muhbir_kodu": 3263,
+    "daire": "Sandıklı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 33,
+    "plaka": 3,
+    "il": "AFYONKARAHİSAR",
+    "ilce": "İscehisar",
+    "muhbir_kodu": 3264,
+    "daire": "İscehisar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 34,
+    "plaka": 3,
+    "il": "AFYONKARAHİSAR",
+    "ilce": "Çay",
+    "muhbir_kodu": 3202,
+    "daire": "Çay Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 35,
+    "plaka": 3,
+    "il": "AFYONKARAHİSAR",
+    "ilce": "Dazkırı",
+    "muhbir_kodu": 3103,
+    "daire": "Dazkırı Malmüdürlüğü"
+  },
+  {
+    "id": 36,
+    "plaka": 3,
+    "il": "AFYONKARAHİSAR",
+    "ilce": "İhsaniye",
+    "muhbir_kodu": 3105,
+    "daire": "İhsaniye Malmüdürlüğü"
+  },
+  {
+    "id": 37,
+    "plaka": 3,
+    "il": "AFYONKARAHİSAR",
+    "ilce": "Sinanpaşa",
+    "muhbir_kodu": 3107,
+    "daire": "Sinanpaşa Malmüdürlüğü"
+  },
+  {
+    "id": 38,
+    "plaka": 3,
+    "il": "AFYONKARAHİSAR",
+    "ilce": "Sultandağı",
+    "muhbir_kodu": 3108,
+    "daire": "Sultandağı Malmüdürlüğü"
+  },
+  {
+    "id": 39,
+    "plaka": 3,
+    "il": "AFYONKARAHİSAR",
+    "ilce": "Şuhut",
+    "muhbir_kodu": 3109,
+    "daire": "Şuhut Malmüdürlüğü"
+  },
+  {
+    "id": 40,
+    "plaka": 3,
+    "il": "AFYONKARAHİSAR",
+    "ilce": "Başmakçı",
+    "muhbir_kodu": 3111,
+    "daire": "Başmakçı Malmüdürlüğü"
+  },
+  {
+    "id": 41,
+    "plaka": 3,
+    "il": "AFYONKARAHİSAR",
+    "ilce": "Bayat",
+    "muhbir_kodu": 3112,
+    "daire": "Bayat Malmüdürlüğü"
+  },
+  {
+    "id": 42,
+    "plaka": 3,
+    "il": "AFYONKARAHİSAR",
+    "ilce": "Çobanlar",
+    "muhbir_kodu": 3114,
+    "daire": "Çobanlar Malmüdürlüğü"
+  },
+  {
+    "id": 43,
+    "plaka": 3,
+    "il": "AFYONKARAHİSAR",
+    "ilce": "Evciler",
+    "muhbir_kodu": 3115,
+    "daire": "Evciler Malmüdürlüğü"
+  },
+  {
+    "id": 44,
+    "plaka": 3,
+    "il": "AFYONKARAHİSAR",
+    "ilce": "Hocalar",
+    "muhbir_kodu": 3116,
+    "daire": "Hocalar Malmüdürlüğü"
+  },
+  {
+    "id": 45,
+    "plaka": 3,
+    "il": "AFYONKARAHİSAR",
+    "ilce": "Kızılören",
+    "muhbir_kodu": 3117,
+    "daire": "Kızılören Malmüdürlüğü"
+  },
+  {
+    "id": 46,
+    "plaka": 4,
+    "il": "AĞRI",
+    "ilce": "Merkez",
+    "muhbir_kodu": 4260,
+    "daire": "Ağrı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 47,
+    "plaka": 4,
+    "il": "AĞRI",
+    "ilce": "Doğubeyazıt",
+    "muhbir_kodu": 4261,
+    "daire": "Doğubeyazıt Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 48,
+    "plaka": 4,
+    "il": "AĞRI",
+    "ilce": "Patnos",
+    "muhbir_kodu": 4262,
+    "daire": "Patnos Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 49,
+    "plaka": 4,
+    "il": "AĞRI",
+    "ilce": "Diyadin",
+    "muhbir_kodu": 4101,
+    "daire": "Diyadin Malmüdürlüğü"
+  },
+  {
+    "id": 50,
+    "plaka": 4,
+    "il": "AĞRI",
+    "ilce": "Eleşkirt",
+    "muhbir_kodu": 4103,
+    "daire": "Eleşkirt Malmüdürlüğü"
+  },
+  {
+    "id": 51,
+    "plaka": 4,
+    "il": "AĞRI",
+    "ilce": "Hamur",
+    "muhbir_kodu": 4104,
+    "daire": "Hamur Malmüdürlüğü"
+  },
+  {
+    "id": 52,
+    "plaka": 4,
+    "il": "AĞRI",
+    "ilce": "Taşlıçay",
+    "muhbir_kodu": 4106,
+    "daire": "Taşlıçay Malmüdürlüğü"
+  },
+  {
+    "id": 53,
+    "plaka": 4,
+    "il": "AĞRI",
+    "ilce": "Tutak",
+    "muhbir_kodu": 4107,
+    "daire": "Tutak Malmüdürlüğü"
+  },
+  {
+    "id": 54,
+    "plaka": 5,
+    "il": "AMASYA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 5260,
+    "daire": "Amasya Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 55,
+    "plaka": 5,
+    "il": "AMASYA",
+    "ilce": "Merzifon",
+    "muhbir_kodu": 5261,
+    "daire": "Merzifon Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 56,
+    "plaka": 5,
+    "il": "AMASYA",
+    "ilce": "Gümüşhacıköy",
+    "muhbir_kodu": 5262,
+    "daire": "Gümüşhacıköy Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 57,
+    "plaka": 5,
+    "il": "AMASYA",
+    "ilce": "Taşova",
+    "muhbir_kodu": 5263,
+    "daire": "Taşova Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 58,
+    "plaka": 5,
+    "il": "AMASYA",
+    "ilce": "Suluova",
+    "muhbir_kodu": 5264,
+    "daire": "Suluova Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 59,
+    "plaka": 5,
+    "il": "AMASYA",
+    "ilce": "Göynücek",
+    "muhbir_kodu": 5101,
+    "daire": "Göynücek Malmüdürlüğü"
+  },
+  {
+    "id": 60,
+    "plaka": 5,
+    "il": "AMASYA",
+    "ilce": "Hamamözü",
+    "muhbir_kodu": 5106,
+    "daire": "Hamamözü Malmüdürlüğü"
+  },
+  {
+    "id": 61,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6280,
+    "daire": "Anadolu İhtisas Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 62,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6281,
+    "daire": "Ankara İhtisas Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 63,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6282,
+    "daire": "Harçlar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 64,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6283,
+    "daire": "Ankara Kurumlar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 65,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6284,
+    "daire": "İvedik Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 66,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6252,
+    "daire": "Veraset ve İntikal Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 67,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6253,
+    "daire": "Kavaklıdere Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 68,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6254,
+    "daire": "Maltepe Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 69,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6255,
+    "daire": "Yenimahalle Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 70,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6257,
+    "daire": "Çankaya Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 71,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6258,
+    "daire": "Kızılbey Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 72,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6259,
+    "daire": "Mithatpaşa Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 73,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6260,
+    "daire": "Ulus Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 74,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6261,
+    "daire": "Yıldırım Beyazıt Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 75,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6262,
+    "daire": "Seğmenler Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 76,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6264,
+    "daire": "Dikimevi Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 77,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6265,
+    "daire": "Doğanbey Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 78,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6266,
+    "daire": "Yeğenbey Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 79,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6268,
+    "daire": "Hitit Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 80,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6269,
+    "daire": "Yahya Galip Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 81,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6270,
+    "daire": "Muhammet Karagüzel Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 82,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6271,
+    "daire": "Ostim Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 83,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6272,
+    "daire": "Gölbaşı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 84,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6273,
+    "daire": "Sincan Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 85,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6274,
+    "daire": "Dışkapı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 86,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6275,
+    "daire": "Etimesgut Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 87,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6276,
+    "daire": "Başkent Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 88,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6277,
+    "daire": "Cumhuriyet Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 89,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6278,
+    "daire": "Keçiören Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 90,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6279,
+    "daire": "Kahramankazan Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 91,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Polatlı",
+    "muhbir_kodu": 6205,
+    "daire": "Polatlı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 92,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Şereflikoçhisar",
+    "muhbir_kodu": 6207,
+    "daire": "Şereflikoçhisar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 93,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Beypazarı",
+    "muhbir_kodu": 6209,
+    "daire": "Beypazarı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 94,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6211,
+    "daire": "Çubuk Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 95,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Haymana",
+    "muhbir_kodu": 6213,
+    "daire": "Haymana Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 96,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6215,
+    "daire": "Elmadağ Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 97,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6102,
+    "daire": "Ayaş Malmüdürlüğü"
+  },
+  {
+    "id": 98,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6103,
+    "daire": "Balâ Malmüdürlüğü"
+  },
+  {
+    "id": 99,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Çamlıdere",
+    "muhbir_kodu": 6106,
+    "daire": "Çamlıdere Malmüdürlüğü"
+  },
+  {
+    "id": 100,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Güdül",
+    "muhbir_kodu": 6110,
+    "daire": "Güdül Malmüdürlüğü"
+  },
+  {
+    "id": 101,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6112,
+    "daire": "Kalecik Malmüdürlüğü"
+  },
+  {
+    "id": 102,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Kızılcahamam",
+    "muhbir_kodu": 6115,
+    "daire": "Kızılcahamam Malmüdürlüğü"
+  },
+  {
+    "id": 103,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Nallıhan",
+    "muhbir_kodu": 6117,
+    "daire": "Nallıhan Malmüdürlüğü"
+  },
+  {
+    "id": 104,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 6125,
+    "daire": "Akyurt Malmüdürlüğü"
+  },
+  {
+    "id": 105,
+    "plaka": 6,
+    "il": "ANKARA",
+    "ilce": "Evren",
+    "muhbir_kodu": 6127,
+    "daire": "Evren Malmüdürlüğü"
+  },
+  {
+    "id": 106,
+    "plaka": 7,
+    "il": "ANTALYA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 7251,
+    "daire": "Üçkapılar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 107,
+    "plaka": 7,
+    "il": "ANTALYA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 7252,
+    "daire": "Kalekapı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 108,
+    "plaka": 7,
+    "il": "ANTALYA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 7253,
+    "daire": "Muratpaşa Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 109,
+    "plaka": 7,
+    "il": "ANTALYA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 7254,
+    "daire": "Düden Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 110,
+    "plaka": 7,
+    "il": "ANTALYA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 7255,
+    "daire": "Antalya Kurumlar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 111,
+    "plaka": 7,
+    "il": "ANTALYA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 7256,
+    "daire": "Antalya İhtisas Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 112,
+    "plaka": 7,
+    "il": "ANTALYA",
+    "ilce": "Korkuteli",
+    "muhbir_kodu": 7257,
+    "daire": "Korkuteli Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 113,
+    "plaka": 7,
+    "il": "ANTALYA",
+    "ilce": "Alanya",
+    "muhbir_kodu": 7201,
+    "daire": "Alanya Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 114,
+    "plaka": 7,
+    "il": "ANTALYA",
+    "ilce": "Serik",
+    "muhbir_kodu": 7202,
+    "daire": "Serik Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 115,
+    "plaka": 7,
+    "il": "ANTALYA",
+    "ilce": "Manavgat",
+    "muhbir_kodu": 7203,
+    "daire": "Manavgat Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 116,
+    "plaka": 7,
+    "il": "ANTALYA",
+    "ilce": "Elmalı",
+    "muhbir_kodu": 7204,
+    "daire": "Elmalı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 117,
+    "plaka": 7,
+    "il": "ANTALYA",
+    "ilce": "Kemer",
+    "muhbir_kodu": 7205,
+    "daire": "Kemer Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 118,
+    "plaka": 7,
+    "il": "ANTALYA",
+    "ilce": "Kumluca",
+    "muhbir_kodu": 7206,
+    "daire": "Kumluca Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 119,
+    "plaka": 7,
+    "il": "ANTALYA",
+    "ilce": "Akseki",
+    "muhbir_kodu": 7101,
+    "daire": "Akseki Malmüdürlüğü"
+  },
+  {
+    "id": 120,
+    "plaka": 7,
+    "il": "ANTALYA",
+    "ilce": "Finike",
+    "muhbir_kodu": 7104,
+    "daire": "Finike Malmüdürlüğü"
+  },
+  {
+    "id": 121,
+    "plaka": 7,
+    "il": "ANTALYA",
+    "ilce": "Gazipaşa",
+    "muhbir_kodu": 7105,
+    "daire": "Gazipaşa Malmüdürlüğü"
+  },
+  {
+    "id": 122,
+    "plaka": 7,
+    "il": "ANTALYA",
+    "ilce": "Gündoğmuş",
+    "muhbir_kodu": 7106,
+    "daire": "Gündoğmuş Malmüdürlüğü"
+  },
+  {
+    "id": 123,
+    "plaka": 7,
+    "il": "ANTALYA",
+    "ilce": "Kaş",
+    "muhbir_kodu": 7107,
+    "daire": "Kaş Malmüdürlüğü"
+  },
+  {
+    "id": 124,
+    "plaka": 7,
+    "il": "ANTALYA",
+    "ilce": "Demre",
+    "muhbir_kodu": 7112,
+    "daire": "Demre Malmüdürlüğü"
+  },
+  {
+    "id": 125,
+    "plaka": 7,
+    "il": "ANTALYA",
+    "ilce": "İbradı",
+    "muhbir_kodu": 7113,
+    "daire": "İbradı Malmüdürlüğü"
+  },
+  {
+    "id": 126,
+    "plaka": 8,
+    "il": "ARTVİN",
+    "ilce": "Merkez",
+    "muhbir_kodu": 8260,
+    "daire": "Artvin Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 127,
+    "plaka": 8,
+    "il": "ARTVİN",
+    "ilce": "Hopa",
+    "muhbir_kodu": 8261,
+    "daire": "Hopa Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 128,
+    "plaka": 8,
+    "il": "ARTVİN",
+    "ilce": "Arhavi",
+    "muhbir_kodu": 8262,
+    "daire": "Arhavi Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 129,
+    "plaka": 8,
+    "il": "ARTVİN",
+    "ilce": "Ardanuç",
+    "muhbir_kodu": 8101,
+    "daire": "Ardanuç Malmüdürlüğü"
+  },
+  {
+    "id": 130,
+    "plaka": 8,
+    "il": "ARTVİN",
+    "ilce": "Borçka",
+    "muhbir_kodu": 8103,
+    "daire": "Borçka Malmüdürlüğü"
+  },
+  {
+    "id": 131,
+    "plaka": 8,
+    "il": "ARTVİN",
+    "ilce": "Şavşat",
+    "muhbir_kodu": 8105,
+    "daire": "Şavşat Malmüdürlüğü"
+  },
+  {
+    "id": 132,
+    "plaka": 8,
+    "il": "ARTVİN",
+    "ilce": "Yusufeli",
+    "muhbir_kodu": 8106,
+    "daire": "Yusufeli Malmüdürlüğü"
+  },
+  {
+    "id": 133,
+    "plaka": 8,
+    "il": "ARTVİN",
+    "ilce": "Murgul",
+    "muhbir_kodu": 8107,
+    "daire": "Murgul Malmüdürlüğü"
+  },
+  {
+    "id": 134,
+    "plaka": 9,
+    "il": "AYDIN",
+    "ilce": "Merkez",
+    "muhbir_kodu": 9201,
+    "daire": "Efeler Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 135,
+    "plaka": 9,
+    "il": "AYDIN",
+    "ilce": "Merkez",
+    "muhbir_kodu": 9280,
+    "daire": "Güzelhisar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 136,
+    "plaka": 9,
+    "il": "AYDIN",
+    "ilce": "Nazilli",
+    "muhbir_kodu": 9260,
+    "daire": "Nazilli Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 137,
+    "plaka": 9,
+    "il": "AYDIN",
+    "ilce": "Söke",
+    "muhbir_kodu": 9261,
+    "daire": "Söke Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 138,
+    "plaka": 9,
+    "il": "AYDIN",
+    "ilce": "Çine",
+    "muhbir_kodu": 9262,
+    "daire": "Çine Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 139,
+    "plaka": 9,
+    "il": "AYDIN",
+    "ilce": "Germencik",
+    "muhbir_kodu": 9263,
+    "daire": "Germencik Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 140,
+    "plaka": 9,
+    "il": "AYDIN",
+    "ilce": "Kuşadası",
+    "muhbir_kodu": 9265,
+    "daire": "Kuşadası Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 141,
+    "plaka": 9,
+    "il": "AYDIN",
+    "ilce": "Didim",
+    "muhbir_kodu": 9281,
+    "daire": "Didim Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 142,
+    "plaka": 9,
+    "il": "AYDIN",
+    "ilce": "Bozdoğan",
+    "muhbir_kodu": 9101,
+    "daire": "Bozdoğan Malmüdürlüğü"
+  },
+  {
+    "id": 143,
+    "plaka": 9,
+    "il": "AYDIN",
+    "ilce": "Karacasu",
+    "muhbir_kodu": 9104,
+    "daire": "Karacasu Malmüdürlüğü"
+  },
+  {
+    "id": 144,
+    "plaka": 9,
+    "il": "AYDIN",
+    "ilce": "Koçarlı",
+    "muhbir_kodu": 9105,
+    "daire": "Koçarlı Malmüdürlüğü"
+  },
+  {
+    "id": 145,
+    "plaka": 9,
+    "il": "AYDIN",
+    "ilce": "Kuyucak",
+    "muhbir_kodu": 9107,
+    "daire": "Kuyucak Malmüdürlüğü"
+  },
+  {
+    "id": 146,
+    "plaka": 9,
+    "il": "AYDIN",
+    "ilce": "Sultanhisar",
+    "muhbir_kodu": 9110,
+    "daire": "Sultanhisar Malmüdürlüğü"
+  },
+  {
+    "id": 147,
+    "plaka": 9,
+    "il": "AYDIN",
+    "ilce": "Yenipazar",
+    "muhbir_kodu": 9111,
+    "daire": "Yenipazar Malmüdürlüğü"
+  },
+  {
+    "id": 148,
+    "plaka": 9,
+    "il": "AYDIN",
+    "ilce": "Buharkent",
+    "muhbir_kodu": 9112,
+    "daire": "Buharkent Malmüdürlüğü"
+  },
+  {
+    "id": 149,
+    "plaka": 9,
+    "il": "AYDIN",
+    "ilce": "İncirliova",
+    "muhbir_kodu": 9113,
+    "daire": "İncirliova Malmüdürlüğü"
+  },
+  {
+    "id": 150,
+    "plaka": 9,
+    "il": "AYDIN",
+    "ilce": "Karpuzlu",
+    "muhbir_kodu": 9114,
+    "daire": "Karpuzlu Malmüdürlüğü"
+  },
+  {
+    "id": 151,
+    "plaka": 9,
+    "il": "AYDIN",
+    "ilce": "Köşk",
+    "muhbir_kodu": 9115,
+    "daire": "Köşk Malmüdürlüğü"
+  },
+  {
+    "id": 152,
+    "plaka": 10,
+    "il": "BALIKESİR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 10201,
+    "daire": "Karesi Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 153,
+    "plaka": 10,
+    "il": "BALIKESİR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 10280,
+    "daire": "Kurtdereli Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 154,
+    "plaka": 10,
+    "il": "BALIKESİR",
+    "ilce": "Ayvalık",
+    "muhbir_kodu": 10260,
+    "daire": "Ayvalık Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 155,
+    "plaka": 10,
+    "il": "BALIKESİR",
+    "ilce": "Bandırma",
+    "muhbir_kodu": 10261,
+    "daire": "Bandırma Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 156,
+    "plaka": 10,
+    "il": "BALIKESİR",
+    "ilce": "Burhaniye",
+    "muhbir_kodu": 10262,
+    "daire": "Burhaniye Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 157,
+    "plaka": 10,
+    "il": "BALIKESİR",
+    "ilce": "Edremit",
+    "muhbir_kodu": 10263,
+    "daire": "Edremit Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 158,
+    "plaka": 10,
+    "il": "BALIKESİR",
+    "ilce": "Gönen",
+    "muhbir_kodu": 10264,
+    "daire": "Gönen Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 159,
+    "plaka": 10,
+    "il": "BALIKESİR",
+    "ilce": "Susurluk",
+    "muhbir_kodu": 10265,
+    "daire": "Susurluk Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 160,
+    "plaka": 10,
+    "il": "BALIKESİR",
+    "ilce": "Erdek",
+    "muhbir_kodu": 10266,
+    "daire": "Erdek Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 161,
+    "plaka": 10,
+    "il": "BALIKESİR",
+    "ilce": "Bigadiç",
+    "muhbir_kodu": 10267,
+    "daire": "Bigadiç Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 162,
+    "plaka": 10,
+    "il": "BALIKESİR",
+    "ilce": "Sındırgı",
+    "muhbir_kodu": 10268,
+    "daire": "Sındırgı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 163,
+    "plaka": 10,
+    "il": "BALIKESİR",
+    "ilce": "Dursunbey",
+    "muhbir_kodu": 10269,
+    "daire": "Dursunbey Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 164,
+    "plaka": 10,
+    "il": "BALIKESİR",
+    "ilce": "Balya",
+    "muhbir_kodu": 10102,
+    "daire": "Balya Malmüdürlüğü"
+  },
+  {
+    "id": 165,
+    "plaka": 10,
+    "il": "BALIKESİR",
+    "ilce": "Havran",
+    "muhbir_kodu": 10110,
+    "daire": "Havran Malmüdürlüğü"
+  },
+  {
+    "id": 166,
+    "plaka": 10,
+    "il": "BALIKESİR",
+    "ilce": "İvrindi",
+    "muhbir_kodu": 10111,
+    "daire": "İvrindi Malmüdürlüğü"
+  },
+  {
+    "id": 167,
+    "plaka": 10,
+    "il": "BALIKESİR",
+    "ilce": "Kepsut",
+    "muhbir_kodu": 10112,
+    "daire": "Kepsut Malmüdürlüğü"
+  },
+  {
+    "id": 168,
+    "plaka": 10,
+    "il": "BALIKESİR",
+    "ilce": "Manyas",
+    "muhbir_kodu": 10113,
+    "daire": "Manyas Malmüdürlüğü"
+  },
+  {
+    "id": 169,
+    "plaka": 10,
+    "il": "BALIKESİR",
+    "ilce": "Savaştepe",
+    "muhbir_kodu": 10114,
+    "daire": "Savaştepe Malmüdürlüğü"
+  },
+  {
+    "id": 170,
+    "plaka": 10,
+    "il": "BALIKESİR",
+    "ilce": "Marmara",
+    "muhbir_kodu": 10117,
+    "daire": "Marmara Malmüdürlüğü"
+  },
+  {
+    "id": 171,
+    "plaka": 10,
+    "il": "BALIKESİR",
+    "ilce": "Gömeç",
+    "muhbir_kodu": 10118,
+    "daire": "Gömeç Malmüdürlüğü"
+  },
+  {
+    "id": 172,
+    "plaka": 11,
+    "il": "BİLECİK",
+    "ilce": "Merkez",
+    "muhbir_kodu": 11260,
+    "daire": "Bilecik Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 173,
+    "plaka": 11,
+    "il": "BİLECİK",
+    "ilce": "Bozüyük",
+    "muhbir_kodu": 11261,
+    "daire": "Bozüyük Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 174,
+    "plaka": 11,
+    "il": "BİLECİK",
+    "ilce": "Gölpazarı",
+    "muhbir_kodu": 11102,
+    "daire": "Gölpazarı Malmüdürlüğü"
+  },
+  {
+    "id": 175,
+    "plaka": 11,
+    "il": "BİLECİK",
+    "ilce": "Osmaneli",
+    "muhbir_kodu": 11103,
+    "daire": "Osmaneli Malmüdürlüğü"
+  },
+  {
+    "id": 176,
+    "plaka": 11,
+    "il": "BİLECİK",
+    "ilce": "Pazaryeri",
+    "muhbir_kodu": 11104,
+    "daire": "Pazaryeri Malmüdürlüğü"
+  },
+  {
+    "id": 177,
+    "plaka": 11,
+    "il": "BİLECİK",
+    "ilce": "Söğüt",
+    "muhbir_kodu": 11105,
+    "daire": "Söğüt Malmüdürlüğü"
+  },
+  {
+    "id": 178,
+    "plaka": 11,
+    "il": "BİLECİK",
+    "ilce": "Yenipazar",
+    "muhbir_kodu": 11106,
+    "daire": "Yenipazar Malmüdürlüğü"
+  },
+  {
+    "id": 179,
+    "plaka": 11,
+    "il": "BİLECİK",
+    "ilce": "İnhisar",
+    "muhbir_kodu": 11107,
+    "daire": "İnhisar Malmüdürlüğü"
+  },
+  {
+    "id": 180,
+    "plaka": 12,
+    "il": "BİNGÖL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 12260,
+    "daire": "Bingöl Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 181,
+    "plaka": 12,
+    "il": "BİNGÖL",
+    "ilce": "Genç",
+    "muhbir_kodu": 12101,
+    "daire": "Genç Malmüdürlüğü"
+  },
+  {
+    "id": 182,
+    "plaka": 12,
+    "il": "BİNGÖL",
+    "ilce": "Karlıova",
+    "muhbir_kodu": 12102,
+    "daire": "Karlıova Malmüdürlüğü"
+  },
+  {
+    "id": 183,
+    "plaka": 12,
+    "il": "BİNGÖL",
+    "ilce": "Kiğı",
+    "muhbir_kodu": 12103,
+    "daire": "Kiğı Malmüdürlüğü"
+  },
+  {
+    "id": 184,
+    "plaka": 12,
+    "il": "BİNGÖL",
+    "ilce": "Solhan",
+    "muhbir_kodu": 12104,
+    "daire": "Solhan Malmüdürlüğü"
+  },
+  {
+    "id": 185,
+    "plaka": 12,
+    "il": "BİNGÖL",
+    "ilce": "Adaklı",
+    "muhbir_kodu": 12105,
+    "daire": "Adaklı Malmüdürlüğü"
+  },
+  {
+    "id": 186,
+    "plaka": 12,
+    "il": "BİNGÖL",
+    "ilce": "Yayladere",
+    "muhbir_kodu": 12106,
+    "daire": "Yayladere Malmüdürlüğü"
+  },
+  {
+    "id": 187,
+    "plaka": 12,
+    "il": "BİNGÖL",
+    "ilce": "Yedisu",
+    "muhbir_kodu": 12107,
+    "daire": "Yedisu Malmüdürlüğü"
+  },
+  {
+    "id": 188,
+    "plaka": 13,
+    "il": "BİTLİS",
+    "ilce": "Merkez",
+    "muhbir_kodu": 13260,
+    "daire": "Bitlis Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 189,
+    "plaka": 13,
+    "il": "BİTLİS",
+    "ilce": "Tatvan",
+    "muhbir_kodu": 13261,
+    "daire": "Tatvan Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 190,
+    "plaka": 13,
+    "il": "BİTLİS",
+    "ilce": "Adilcevaz",
+    "muhbir_kodu": 13101,
+    "daire": "Adilcevaz Malmüdürlüğü"
+  },
+  {
+    "id": 191,
+    "plaka": 13,
+    "il": "BİTLİS",
+    "ilce": "Ahlat",
+    "muhbir_kodu": 13102,
+    "daire": "Ahlat Malmüdürlüğü"
+  },
+  {
+    "id": 192,
+    "plaka": 13,
+    "il": "BİTLİS",
+    "ilce": "Hizan",
+    "muhbir_kodu": 13103,
+    "daire": "Hizan Malmüdürlüğü"
+  },
+  {
+    "id": 193,
+    "plaka": 13,
+    "il": "BİTLİS",
+    "ilce": "Mutki",
+    "muhbir_kodu": 13104,
+    "daire": "Mutki Malmüdürlüğü"
+  },
+  {
+    "id": 194,
+    "plaka": 13,
+    "il": "BİTLİS",
+    "ilce": "Göroymak",
+    "muhbir_kodu": 13106,
+    "daire": "Güroymak Malmüdürlüğü"
+  },
+  {
+    "id": 195,
+    "plaka": 14,
+    "il": "BOLU",
+    "ilce": "Merkez",
+    "muhbir_kodu": 14260,
+    "daire": "Bolu Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 196,
+    "plaka": 14,
+    "il": "BOLU",
+    "ilce": "Gerede",
+    "muhbir_kodu": 14262,
+    "daire": "Gerede Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 197,
+    "plaka": 14,
+    "il": "BOLU",
+    "ilce": "Göynük",
+    "muhbir_kodu": 14104,
+    "daire": "Göynük Malmüdürlüğü"
+  },
+  {
+    "id": 198,
+    "plaka": 14,
+    "il": "BOLU",
+    "ilce": "Kıbrıscık",
+    "muhbir_kodu": 14105,
+    "daire": "Kıbrıscık Malmüdürlüğü"
+  },
+  {
+    "id": 199,
+    "plaka": 14,
+    "il": "BOLU",
+    "ilce": "Mengen",
+    "muhbir_kodu": 14106,
+    "daire": "Mengen Malmüdürlüğü"
+  },
+  {
+    "id": 200,
+    "plaka": 14,
+    "il": "BOLU",
+    "ilce": "Mudurnu",
+    "muhbir_kodu": 14107,
+    "daire": "Mudurnu Malmüdürlüğü"
+  },
+  {
+    "id": 201,
+    "plaka": 14,
+    "il": "BOLU",
+    "ilce": "Seben",
+    "muhbir_kodu": 14108,
+    "daire": "Seben Malmüdürlüğü"
+  },
+  {
+    "id": 202,
+    "plaka": 14,
+    "il": "BOLU",
+    "ilce": "Dörtdivan",
+    "muhbir_kodu": 14113,
+    "daire": "Dörtdivan Malmüdürlüğü"
+  },
+  {
+    "id": 203,
+    "plaka": 14,
+    "il": "BOLU",
+    "ilce": "Yeniçağa",
+    "muhbir_kodu": 14114,
+    "daire": "Yeniçağa Malmüdürlüğü"
+  },
+  {
+    "id": 204,
+    "plaka": 15,
+    "il": "BURDUR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 15260,
+    "daire": "Burdur Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 205,
+    "plaka": 15,
+    "il": "BURDUR",
+    "ilce": "Bucak",
+    "muhbir_kodu": 15261,
+    "daire": "Bucak Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 206,
+    "plaka": 15,
+    "il": "BURDUR",
+    "ilce": "Ağlasun",
+    "muhbir_kodu": 15101,
+    "daire": "Ağlasun Malmüdürlüğü"
+  },
+  {
+    "id": 207,
+    "plaka": 15,
+    "il": "BURDUR",
+    "ilce": "Gölhisar",
+    "muhbir_kodu": 15103,
+    "daire": "Gölhisar Malmüdürlüğü"
+  },
+  {
+    "id": 208,
+    "plaka": 15,
+    "il": "BURDUR",
+    "ilce": "Tefenni",
+    "muhbir_kodu": 15104,
+    "daire": "Tefenni Malmüdürlüğü"
+  },
+  {
+    "id": 209,
+    "plaka": 15,
+    "il": "BURDUR",
+    "ilce": "Yeşilova",
+    "muhbir_kodu": 15105,
+    "daire": "Yeşilova Malmüdürlüğü"
+  },
+  {
+    "id": 210,
+    "plaka": 15,
+    "il": "BURDUR",
+    "ilce": "Karamanlı",
+    "muhbir_kodu": 15106,
+    "daire": "Karamanlı Malmüdürlüğü"
+  },
+  {
+    "id": 211,
+    "plaka": 15,
+    "il": "BURDUR",
+    "ilce": "Kemer",
+    "muhbir_kodu": 15107,
+    "daire": "Kemer Malmüdürlüğü"
+  },
+  {
+    "id": 212,
+    "plaka": 15,
+    "il": "BURDUR",
+    "ilce": "Altınyayla",
+    "muhbir_kodu": 15108,
+    "daire": "Altınyayla Malmüdürlüğü"
+  },
+  {
+    "id": 213,
+    "plaka": 15,
+    "il": "BURDUR",
+    "ilce": "Çavdır",
+    "muhbir_kodu": 15109,
+    "daire": "Çavdır Malmüdürlüğü"
+  },
+  {
+    "id": 214,
+    "plaka": 15,
+    "il": "BURDUR",
+    "ilce": "Çeltikçi",
+    "muhbir_kodu": 15110,
+    "daire": "Çeltikçi Malmüdürlüğü"
+  },
+  {
+    "id": 215,
+    "plaka": 16,
+    "il": "BURSA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 16250,
+    "daire": "Bursa İhtisas Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 216,
+    "plaka": 16,
+    "il": "BURSA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 16251,
+    "daire": "Osmangazi Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 217,
+    "plaka": 16,
+    "il": "BURSA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 16252,
+    "daire": "Yıldırım Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 218,
+    "plaka": 16,
+    "il": "BURSA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 16253,
+    "daire": "Çekirge Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 219,
+    "plaka": 16,
+    "il": "BURSA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 16254,
+    "daire": "Setbaşı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 220,
+    "plaka": 16,
+    "il": "BURSA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 16255,
+    "daire": "Uludağ Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 221,
+    "plaka": 16,
+    "il": "BURSA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 16256,
+    "daire": "Yeşil Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 222,
+    "plaka": 16,
+    "il": "BURSA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 16257,
+    "daire": "Nilüfer Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 223,
+    "plaka": 16,
+    "il": "BURSA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 16258,
+    "daire": "Ertuğrulgazi Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 224,
+    "plaka": 16,
+    "il": "BURSA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 16259,
+    "daire": "Gökdere Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 225,
+    "plaka": 16,
+    "il": "BURSA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 16260,
+    "daire": "Bursa Veraset ve Harçlar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 226,
+    "plaka": 16,
+    "il": "BURSA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 16201,
+    "daire": "Gemlik Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 227,
+    "plaka": 16,
+    "il": "BURSA",
+    "ilce": "İnegöl",
+    "muhbir_kodu": 16202,
+    "daire": "İnegöl Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 228,
+    "plaka": 16,
+    "il": "BURSA",
+    "ilce": "Karacabey",
+    "muhbir_kodu": 16203,
+    "daire": "Karacabey Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 229,
+    "plaka": 16,
+    "il": "BURSA",
+    "ilce": "Mustafakemalpaşa",
+    "muhbir_kodu": 16204,
+    "daire": "Mustafakemalpaşa Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 230,
+    "plaka": 16,
+    "il": "BURSA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 16205,
+    "daire": "Mudanya Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 231,
+    "plaka": 16,
+    "il": "BURSA",
+    "ilce": "Orhangazi",
+    "muhbir_kodu": 16206,
+    "daire": "Orhangazi Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 232,
+    "plaka": 16,
+    "il": "BURSA",
+    "ilce": "İznik",
+    "muhbir_kodu": 16207,
+    "daire": "İznik Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 233,
+    "plaka": 16,
+    "il": "BURSA",
+    "ilce": "Yenişehir",
+    "muhbir_kodu": 16208,
+    "daire": "Yenişehir Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 234,
+    "plaka": 16,
+    "il": "BURSA",
+    "ilce": "Keles",
+    "muhbir_kodu": 16105,
+    "daire": "Keles Malmüdürlüğü"
+  },
+  {
+    "id": 235,
+    "plaka": 16,
+    "il": "BURSA",
+    "ilce": "Orhaneli",
+    "muhbir_kodu": 16108,
+    "daire": "Orhaneli Malmüdürlüğü"
+  },
+  {
+    "id": 236,
+    "plaka": 16,
+    "il": "BURSA",
+    "ilce": "Harmancık",
+    "muhbir_kodu": 16111,
+    "daire": "Harmancık Malmüdürlüğü"
+  },
+  {
+    "id": 237,
+    "plaka": 16,
+    "il": "BURSA",
+    "ilce": "Büyükorhan",
+    "muhbir_kodu": 16112,
+    "daire": "Büyükorhan Malmüdürlüğü"
+  },
+  {
+    "id": 238,
+    "plaka": 17,
+    "il": "ÇANAKKALE",
+    "ilce": "Merkez",
+    "muhbir_kodu": 17260,
+    "daire": "Çanakkale Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 239,
+    "plaka": 17,
+    "il": "ÇANAKKALE",
+    "ilce": "Biga",
+    "muhbir_kodu": 17261,
+    "daire": "Biga Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 240,
+    "plaka": 17,
+    "il": "ÇANAKKALE",
+    "ilce": "Çan",
+    "muhbir_kodu": 17262,
+    "daire": "Çan Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 241,
+    "plaka": 17,
+    "il": "ÇANAKKALE",
+    "ilce": "Gelibolu",
+    "muhbir_kodu": 17263,
+    "daire": "Gelibolu Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 242,
+    "plaka": 17,
+    "il": "ÇANAKKALE",
+    "ilce": "Ayvacık",
+    "muhbir_kodu": 17101,
+    "daire": "Ayvacık Malmüdürlüğü"
+  },
+  {
+    "id": 243,
+    "plaka": 17,
+    "il": "ÇANAKKALE",
+    "ilce": "Bayramiç",
+    "muhbir_kodu": 17102,
+    "daire": "Bayramiç Malmüdürlüğü"
+  },
+  {
+    "id": 244,
+    "plaka": 17,
+    "il": "ÇANAKKALE",
+    "ilce": "Bozcaada",
+    "muhbir_kodu": 17104,
+    "daire": "Bozcaada Malmüdürlüğü"
+  },
+  {
+    "id": 245,
+    "plaka": 17,
+    "il": "ÇANAKKALE",
+    "ilce": "Eceabat",
+    "muhbir_kodu": 17106,
+    "daire": "Eceabat Malmüdürlüğü"
+  },
+  {
+    "id": 246,
+    "plaka": 17,
+    "il": "ÇANAKKALE",
+    "ilce": "Ezine",
+    "muhbir_kodu": 17107,
+    "daire": "Ezine Malmüdürlüğü"
+  },
+  {
+    "id": 247,
+    "plaka": 17,
+    "il": "ÇANAKKALE",
+    "ilce": "Gökçeada",
+    "muhbir_kodu": 17109,
+    "daire": "Gökçeada Malmüdürlüğü"
+  },
+  {
+    "id": 248,
+    "plaka": 17,
+    "il": "ÇANAKKALE",
+    "ilce": "Lapseki",
+    "muhbir_kodu": 17110,
+    "daire": "Lapseki Malmüdürlüğü"
+  },
+  {
+    "id": 249,
+    "plaka": 17,
+    "il": "ÇANAKKALE",
+    "ilce": "Yenice",
+    "muhbir_kodu": 17111,
+    "daire": "Yenice Malmüdürlüğü"
+  },
+  {
+    "id": 250,
+    "plaka": 18,
+    "il": "ÇANKIRI",
+    "ilce": "Merkez",
+    "muhbir_kodu": 18260,
+    "daire": "Çankırı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 251,
+    "plaka": 18,
+    "il": "ÇANKIRI",
+    "ilce": "Çerkeş",
+    "muhbir_kodu": 18101,
+    "daire": "Çerkeş Malmüdürlüğü"
+  },
+  {
+    "id": 252,
+    "plaka": 18,
+    "il": "ÇANKIRI",
+    "ilce": "Eldivan",
+    "muhbir_kodu": 18102,
+    "daire": "Eldivan Malmüdürlüğü"
+  },
+  {
+    "id": 253,
+    "plaka": 18,
+    "il": "ÇANKIRI",
+    "ilce": "Ilgaz",
+    "muhbir_kodu": 18104,
+    "daire": "Ilgaz Malmüdürlüğü"
+  },
+  {
+    "id": 254,
+    "plaka": 18,
+    "il": "ÇANKIRI",
+    "ilce": "Kurşunlu",
+    "muhbir_kodu": 18105,
+    "daire": "Kurşunlu Malmüdürlüğü"
+  },
+  {
+    "id": 255,
+    "plaka": 18,
+    "il": "ÇANKIRI",
+    "ilce": "Orta",
+    "muhbir_kodu": 18106,
+    "daire": "Orta Malmüdürlüğü"
+  },
+  {
+    "id": 256,
+    "plaka": 18,
+    "il": "ÇANKIRI",
+    "ilce": "Şabanözü",
+    "muhbir_kodu": 18108,
+    "daire": "Şabanözü Malmüdürlüğü"
+  },
+  {
+    "id": 257,
+    "plaka": 18,
+    "il": "ÇANKIRI",
+    "ilce": "Yapraklı",
+    "muhbir_kodu": 18109,
+    "daire": "Yapraklı Malmüdürlüğü"
+  },
+  {
+    "id": 258,
+    "plaka": 18,
+    "il": "ÇANKIRI",
+    "ilce": "Atkaracalar",
+    "muhbir_kodu": 18110,
+    "daire": "Atkaracalar Malmüdürlüğü"
+  },
+  {
+    "id": 259,
+    "plaka": 18,
+    "il": "ÇANKIRI",
+    "ilce": "Kızılırmak",
+    "muhbir_kodu": 18111,
+    "daire": "Kızılırmak Malmüdürlüğü"
+  },
+  {
+    "id": 260,
+    "plaka": 18,
+    "il": "ÇANKIRI",
+    "ilce": "Bayramören",
+    "muhbir_kodu": 18112,
+    "daire": "Bayramören Malmüdürlüğü"
+  },
+  {
+    "id": 261,
+    "plaka": 18,
+    "il": "ÇANKIRI",
+    "ilce": "Korgun",
+    "muhbir_kodu": 18113,
+    "daire": "Korgun Malmüdürlüğü"
+  },
+  {
+    "id": 262,
+    "plaka": 19,
+    "il": "ÇORUM",
+    "ilce": "Merkez",
+    "muhbir_kodu": 19260,
+    "daire": "Çorum Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 263,
+    "plaka": 19,
+    "il": "ÇORUM",
+    "ilce": "Sungurlu",
+    "muhbir_kodu": 19261,
+    "daire": "Sungurlu Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 264,
+    "plaka": 19,
+    "il": "ÇORUM",
+    "ilce": "Alaca",
+    "muhbir_kodu": 19101,
+    "daire": "Alaca Malmüdürlüğü"
+  },
+  {
+    "id": 265,
+    "plaka": 19,
+    "il": "ÇORUM",
+    "ilce": "Bayat",
+    "muhbir_kodu": 19102,
+    "daire": "Bayat Malmüdürlüğü"
+  },
+  {
+    "id": 266,
+    "plaka": 19,
+    "il": "ÇORUM",
+    "ilce": "İskilip",
+    "muhbir_kodu": 19103,
+    "daire": "İskilip Malmüdürlüğü"
+  },
+  {
+    "id": 267,
+    "plaka": 19,
+    "il": "ÇORUM",
+    "ilce": "Kargı",
+    "muhbir_kodu": 19104,
+    "daire": "Kargı Malmüdürlüğü"
+  },
+  {
+    "id": 268,
+    "plaka": 19,
+    "il": "ÇORUM",
+    "ilce": "Mecitözü",
+    "muhbir_kodu": 19105,
+    "daire": "Mecitözü Malmüdürlüğü"
+  },
+  {
+    "id": 269,
+    "plaka": 19,
+    "il": "ÇORUM",
+    "ilce": "Ortaköy",
+    "muhbir_kodu": 19106,
+    "daire": "Ortaköy Malmüdürlüğü"
+  },
+  {
+    "id": 270,
+    "plaka": 19,
+    "il": "ÇORUM",
+    "ilce": "Osmancık",
+    "muhbir_kodu": 19107,
+    "daire": "Osmancık Malmüdürlüğü"
+  },
+  {
+    "id": 271,
+    "plaka": 19,
+    "il": "ÇORUM",
+    "ilce": "Boğazkale",
+    "muhbir_kodu": 19109,
+    "daire": "Boğazkale Malmüdürlüğü"
+  },
+  {
+    "id": 272,
+    "plaka": 19,
+    "il": "ÇORUM",
+    "ilce": "Uğurludağ",
+    "muhbir_kodu": 19110,
+    "daire": "Uğurludağ Malmüdürlüğü"
+  },
+  {
+    "id": 273,
+    "plaka": 19,
+    "il": "ÇORUM",
+    "ilce": "Dodurga",
+    "muhbir_kodu": 19111,
+    "daire": "Dodurga Malmüdürlüğü"
+  },
+  {
+    "id": 274,
+    "plaka": 19,
+    "il": "ÇORUM",
+    "ilce": "Oğuzlar",
+    "muhbir_kodu": 19112,
+    "daire": "Oğuzlar Malmüdürlüğü"
+  },
+  {
+    "id": 275,
+    "plaka": 19,
+    "il": "ÇORUM",
+    "ilce": "Laçin",
+    "muhbir_kodu": 19113,
+    "daire": "Laçin Malmüdürlüğü"
+  },
+  {
+    "id": 276,
+    "plaka": 20,
+    "il": "DENİZLİ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 20201,
+    "daire": "Saraylar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 277,
+    "plaka": 20,
+    "il": "DENİZLİ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 20202,
+    "daire": "Çınar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 278,
+    "plaka": 20,
+    "il": "DENİZLİ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 20203,
+    "daire": "Gökpınar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 279,
+    "plaka": 20,
+    "il": "DENİZLİ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 20250,
+    "daire": "Denizli İhtisas Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 280,
+    "plaka": 20,
+    "il": "DENİZLİ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 20280,
+    "daire": "Pamukkale Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 281,
+    "plaka": 20,
+    "il": "DENİZLİ",
+    "ilce": "Sarayköy",
+    "muhbir_kodu": 20260,
+    "daire": "Sarayköy Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 282,
+    "plaka": 20,
+    "il": "DENİZLİ",
+    "ilce": "Acıpayam",
+    "muhbir_kodu": 20261,
+    "daire": "Acıpayam Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 283,
+    "plaka": 20,
+    "il": "DENİZLİ",
+    "ilce": "Tavas",
+    "muhbir_kodu": 20262,
+    "daire": "Tavas Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 284,
+    "plaka": 20,
+    "il": "DENİZLİ",
+    "ilce": "Buldan",
+    "muhbir_kodu": 20263,
+    "daire": "Buldan Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 285,
+    "plaka": 20,
+    "il": "DENİZLİ",
+    "ilce": "Çal",
+    "muhbir_kodu": 20264,
+    "daire": "Çal Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 286,
+    "plaka": 20,
+    "il": "DENİZLİ",
+    "ilce": "Çivril",
+    "muhbir_kodu": 20265,
+    "daire": "Çivril Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 287,
+    "plaka": 20,
+    "il": "DENİZLİ",
+    "ilce": "Çameli",
+    "muhbir_kodu": 20104,
+    "daire": "Çameli Malmüdürlüğü"
+  },
+  {
+    "id": 288,
+    "plaka": 20,
+    "il": "DENİZLİ",
+    "ilce": "Çardak",
+    "muhbir_kodu": 20105,
+    "daire": "Çardak Malmüdürlüğü"
+  },
+  {
+    "id": 289,
+    "plaka": 20,
+    "il": "DENİZLİ",
+    "ilce": "Güney",
+    "muhbir_kodu": 20107,
+    "daire": "Güney Malmüdürlüğü"
+  },
+  {
+    "id": 290,
+    "plaka": 20,
+    "il": "DENİZLİ",
+    "ilce": "Kale",
+    "muhbir_kodu": 20108,
+    "daire": "Kale Malmüdürlüğü"
+  },
+  {
+    "id": 291,
+    "plaka": 20,
+    "il": "DENİZLİ",
+    "ilce": "Babadağ",
+    "muhbir_kodu": 20111,
+    "daire": "Babadağ Malmüdürlüğü"
+  },
+  {
+    "id": 292,
+    "plaka": 20,
+    "il": "DENİZLİ",
+    "ilce": "Bekilli",
+    "muhbir_kodu": 20112,
+    "daire": "Bekilli Malmüdürlüğü"
+  },
+  {
+    "id": 293,
+    "plaka": 20,
+    "il": "DENİZLİ",
+    "ilce": "Honaz",
+    "muhbir_kodu": 20113,
+    "daire": "Honaz Malmüdürlüğü"
+  },
+  {
+    "id": 294,
+    "plaka": 20,
+    "il": "DENİZLİ",
+    "ilce": "Serinhisar",
+    "muhbir_kodu": 20114,
+    "daire": "Serinhisar Malmüdürlüğü"
+  },
+  {
+    "id": 295,
+    "plaka": 20,
+    "il": "DENİZLİ",
+    "ilce": "Pamukkale",
+    "muhbir_kodu": 20115,
+    "daire": "Pamukkale Malmüdürlüğü (Akköy)"
+  },
+  {
+    "id": 296,
+    "plaka": 20,
+    "il": "DENİZLİ",
+    "ilce": "Baklan",
+    "muhbir_kodu": 20116,
+    "daire": "Baklan Malmüdürlüğü"
+  },
+  {
+    "id": 297,
+    "plaka": 20,
+    "il": "DENİZLİ",
+    "ilce": "Beyağaç",
+    "muhbir_kodu": 20117,
+    "daire": "Beyağaç Malmüdürlüğü"
+  },
+  {
+    "id": 298,
+    "plaka": 20,
+    "il": "DENİZLİ",
+    "ilce": "Bozkurt",
+    "muhbir_kodu": 20118,
+    "daire": "Bozkurt Malmüdürlüğü"
+  },
+  {
+    "id": 299,
+    "plaka": 21,
+    "il": "DİYARBAKIR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 21251,
+    "daire": "Gökalp Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 300,
+    "plaka": 21,
+    "il": "DİYARBAKIR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 21281,
+    "daire": "Süleyman Nazif Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 301,
+    "plaka": 21,
+    "il": "DİYARBAKIR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 21282,
+    "daire": "Cahit Sıtkı Tarancı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 302,
+    "plaka": 21,
+    "il": "DİYARBAKIR",
+    "ilce": "Ergani",
+    "muhbir_kodu": 21283,
+    "daire": "Ergani Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 303,
+    "plaka": 21,
+    "il": "DİYARBAKIR",
+    "ilce": "Bismil",
+    "muhbir_kodu": 21284,
+    "daire": "Bismil Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 304,
+    "plaka": 21,
+    "il": "DİYARBAKIR",
+    "ilce": "Çermik",
+    "muhbir_kodu": 21102,
+    "daire": "Çermik Malmüdürlüğü"
+  },
+  {
+    "id": 305,
+    "plaka": 21,
+    "il": "DİYARBAKIR",
+    "ilce": "Çınar",
+    "muhbir_kodu": 21103,
+    "daire": "Çınar Malmüdürlüğü"
+  },
+  {
+    "id": 306,
+    "plaka": 21,
+    "il": "DİYARBAKIR",
+    "ilce": "Çüngüş",
+    "muhbir_kodu": 21104,
+    "daire": "Çüngüş Malmüdürlüğü"
+  },
+  {
+    "id": 307,
+    "plaka": 21,
+    "il": "DİYARBAKIR",
+    "ilce": "Dicle",
+    "muhbir_kodu": 21105,
+    "daire": "Dicle Malmüdürlüğü"
+  },
+  {
+    "id": 308,
+    "plaka": 21,
+    "il": "DİYARBAKIR",
+    "ilce": "Hani",
+    "muhbir_kodu": 21107,
+    "daire": "Hani Malmüdürlüğü"
+  },
+  {
+    "id": 309,
+    "plaka": 21,
+    "il": "DİYARBAKIR",
+    "ilce": "Hazro",
+    "muhbir_kodu": 21108,
+    "daire": "Hazro Malmüdürlüğü"
+  },
+  {
+    "id": 310,
+    "plaka": 21,
+    "il": "DİYARBAKIR",
+    "ilce": "Kulp",
+    "muhbir_kodu": 21109,
+    "daire": "Kulp Malmüdürlüğü"
+  },
+  {
+    "id": 311,
+    "plaka": 21,
+    "il": "DİYARBAKIR",
+    "ilce": "Lice",
+    "muhbir_kodu": 21110,
+    "daire": "Lice Malmüdürlüğü"
+  },
+  {
+    "id": 312,
+    "plaka": 21,
+    "il": "DİYARBAKIR",
+    "ilce": "Silvan",
+    "muhbir_kodu": 21111,
+    "daire": "Silvan Malmüdürlüğü"
+  },
+  {
+    "id": 313,
+    "plaka": 21,
+    "il": "DİYARBAKIR",
+    "ilce": "Eğil",
+    "muhbir_kodu": 21112,
+    "daire": "Eğil Malmüdürlüğü"
+  },
+  {
+    "id": 314,
+    "plaka": 21,
+    "il": "DİYARBAKIR",
+    "ilce": "Kocaköy",
+    "muhbir_kodu": 21113,
+    "daire": "Kocaköy Malmüdürlüğü"
+  },
+  {
+    "id": 315,
+    "plaka": 22,
+    "il": "EDİRNE",
+    "ilce": "Merkez",
+    "muhbir_kodu": 22201,
+    "daire": "Arda Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 316,
+    "plaka": 22,
+    "il": "EDİRNE",
+    "ilce": "Merkez",
+    "muhbir_kodu": 22260,
+    "daire": "Kırkpınar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 317,
+    "plaka": 22,
+    "il": "EDİRNE",
+    "ilce": "Keşan",
+    "muhbir_kodu": 22261,
+    "daire": "Keşan Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 318,
+    "plaka": 22,
+    "il": "EDİRNE",
+    "ilce": "Uzunköprü",
+    "muhbir_kodu": 22262,
+    "daire": "Uzunköprü Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 319,
+    "plaka": 22,
+    "il": "EDİRNE",
+    "ilce": "Havsa",
+    "muhbir_kodu": 22263,
+    "daire": "Havsa Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 320,
+    "plaka": 22,
+    "il": "EDİRNE",
+    "ilce": "İpsala",
+    "muhbir_kodu": 22264,
+    "daire": "İpsala Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 321,
+    "plaka": 22,
+    "il": "EDİRNE",
+    "ilce": "Enez",
+    "muhbir_kodu": 22101,
+    "daire": "Enez Malmüdürlüğü"
+  },
+  {
+    "id": 322,
+    "plaka": 22,
+    "il": "EDİRNE",
+    "ilce": "Lalapaşa",
+    "muhbir_kodu": 22105,
+    "daire": "Lalapaşa Malmüdürlüğü"
+  },
+  {
+    "id": 323,
+    "plaka": 22,
+    "il": "EDİRNE",
+    "ilce": "Meriç",
+    "muhbir_kodu": 22106,
+    "daire": "Meriç Malmüdürlüğü"
+  },
+  {
+    "id": 324,
+    "plaka": 22,
+    "il": "EDİRNE",
+    "ilce": "Süloğlu",
+    "muhbir_kodu": 22108,
+    "daire": "Süloğlu Malmüdürlüğü"
+  },
+  {
+    "id": 325,
+    "plaka": 23,
+    "il": "ELAZIĞ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 23201,
+    "daire": "Harput Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 326,
+    "plaka": 23,
+    "il": "ELAZIĞ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 23280,
+    "daire": "Hazar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 327,
+    "plaka": 23,
+    "il": "ELAZIĞ",
+    "ilce": "Ağın",
+    "muhbir_kodu": 23101,
+    "daire": "Ağın Malmüdürlüğü"
+  },
+  {
+    "id": 328,
+    "plaka": 23,
+    "il": "ELAZIĞ",
+    "ilce": "Baskil",
+    "muhbir_kodu": 23102,
+    "daire": "Baskil Malmüdürlüğü"
+  },
+  {
+    "id": 329,
+    "plaka": 23,
+    "il": "ELAZIĞ",
+    "ilce": "Karakoçan",
+    "muhbir_kodu": 23103,
+    "daire": "Karakoçan Malmüdürlüğü"
+  },
+  {
+    "id": 330,
+    "plaka": 23,
+    "il": "ELAZIĞ",
+    "ilce": "Keban",
+    "muhbir_kodu": 23104,
+    "daire": "Keban Malmüdürlüğü"
+  },
+  {
+    "id": 331,
+    "plaka": 23,
+    "il": "ELAZIĞ",
+    "ilce": "Maden",
+    "muhbir_kodu": 23105,
+    "daire": "Maden Malmüdürlüğü"
+  },
+  {
+    "id": 332,
+    "plaka": 23,
+    "il": "ELAZIĞ",
+    "ilce": "Palu",
+    "muhbir_kodu": 23106,
+    "daire": "Palu Malmüdürlüğü"
+  },
+  {
+    "id": 333,
+    "plaka": 23,
+    "il": "ELAZIĞ",
+    "ilce": "Sivrice",
+    "muhbir_kodu": 23107,
+    "daire": "Sivrice Malmüdürlüğü"
+  },
+  {
+    "id": 334,
+    "plaka": 23,
+    "il": "ELAZIĞ",
+    "ilce": "Arıcak",
+    "muhbir_kodu": 23108,
+    "daire": "Arıcak Malmüdürlüğü"
+  },
+  {
+    "id": 335,
+    "plaka": 23,
+    "il": "ELAZIĞ",
+    "ilce": "Kovancılar",
+    "muhbir_kodu": 23109,
+    "daire": "Kovancılar Malmüdürlüğü"
+  },
+  {
+    "id": 336,
+    "plaka": 23,
+    "il": "ELAZIĞ",
+    "ilce": "Alacakaya",
+    "muhbir_kodu": 23110,
+    "daire": "Alacakaya Malmüdürlüğü"
+  },
+  {
+    "id": 337,
+    "plaka": 24,
+    "il": "ERZİNCAN",
+    "ilce": "Merkez",
+    "muhbir_kodu": 24260,
+    "daire": "Fevzipaşa Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 338,
+    "plaka": 24,
+    "il": "ERZİNCAN",
+    "ilce": "Çayırlı",
+    "muhbir_kodu": 24101,
+    "daire": "Çayırlı Malmüdürlüğü"
+  },
+  {
+    "id": 339,
+    "plaka": 24,
+    "il": "ERZİNCAN",
+    "ilce": "İliç",
+    "muhbir_kodu": 24102,
+    "daire": "İliç Malmüdürlüğü"
+  },
+  {
+    "id": 340,
+    "plaka": 24,
+    "il": "ERZİNCAN",
+    "ilce": "Kemah",
+    "muhbir_kodu": 24103,
+    "daire": "Kemah Malmüdürlüğü"
+  },
+  {
+    "id": 341,
+    "plaka": 24,
+    "il": "ERZİNCAN",
+    "ilce": "Kemaliye",
+    "muhbir_kodu": 24104,
+    "daire": "Kemaliye Malmüdürlüğü"
+  },
+  {
+    "id": 342,
+    "plaka": 24,
+    "il": "ERZİNCAN",
+    "ilce": "Refahiye",
+    "muhbir_kodu": 24105,
+    "daire": "Refahiye Malmüdürlüğü"
+  },
+  {
+    "id": 343,
+    "plaka": 24,
+    "il": "ERZİNCAN",
+    "ilce": "Tercan",
+    "muhbir_kodu": 24106,
+    "daire": "Tercan Malmüdürlüğü"
+  },
+  {
+    "id": 344,
+    "plaka": 24,
+    "il": "ERZİNCAN",
+    "ilce": "Üzümlü",
+    "muhbir_kodu": 24107,
+    "daire": "Üzümlü Malmüdürlüğü"
+  },
+  {
+    "id": 345,
+    "plaka": 24,
+    "il": "ERZİNCAN",
+    "ilce": "Otlukbeli",
+    "muhbir_kodu": 24108,
+    "daire": "Otlukbeli Malmüdürlüğü"
+  },
+  {
+    "id": 346,
+    "plaka": 25,
+    "il": "ERZURUM",
+    "ilce": "Merkez",
+    "muhbir_kodu": 25251,
+    "daire": "Aziziye Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 347,
+    "plaka": 25,
+    "il": "ERZURUM",
+    "ilce": "Merkez",
+    "muhbir_kodu": 25280,
+    "daire": "Kazımkarabekir Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 348,
+    "plaka": 25,
+    "il": "ERZURUM",
+    "ilce": "Aşkale",
+    "muhbir_kodu": 25101,
+    "daire": "Aşkale Malmüdürlüğü"
+  },
+  {
+    "id": 349,
+    "plaka": 25,
+    "il": "ERZURUM",
+    "ilce": "Çat",
+    "muhbir_kodu": 25102,
+    "daire": "Çat Malmüdürlüğü"
+  },
+  {
+    "id": 350,
+    "plaka": 25,
+    "il": "ERZURUM",
+    "ilce": "Hınıs",
+    "muhbir_kodu": 25103,
+    "daire": "Hınıs Malmüdürlüğü"
+  },
+  {
+    "id": 351,
+    "plaka": 25,
+    "il": "ERZURUM",
+    "ilce": "Horasan",
+    "muhbir_kodu": 25104,
+    "daire": "Horasan Malmüdürlüğü"
+  },
+  {
+    "id": 352,
+    "plaka": 25,
+    "il": "ERZURUM",
+    "ilce": "İspir",
+    "muhbir_kodu": 25105,
+    "daire": "İspir Malmüdürlüğü"
+  },
+  {
+    "id": 353,
+    "plaka": 25,
+    "il": "ERZURUM",
+    "ilce": "Karayazı",
+    "muhbir_kodu": 25106,
+    "daire": "Karayazı Malmüdürlüğü"
+  },
+  {
+    "id": 354,
+    "plaka": 25,
+    "il": "ERZURUM",
+    "ilce": "Narman",
+    "muhbir_kodu": 25107,
+    "daire": "Narman Malmüdürlüğü"
+  },
+  {
+    "id": 355,
+    "plaka": 25,
+    "il": "ERZURUM",
+    "ilce": "Oltu",
+    "muhbir_kodu": 25108,
+    "daire": "Oltu Malmüdürlüğü"
+  },
+  {
+    "id": 356,
+    "plaka": 25,
+    "il": "ERZURUM",
+    "ilce": "Olur",
+    "muhbir_kodu": 25109,
+    "daire": "Olur Malmüdürlüğü"
+  },
+  {
+    "id": 357,
+    "plaka": 25,
+    "il": "ERZURUM",
+    "ilce": "Pasinler",
+    "muhbir_kodu": 25110,
+    "daire": "Pasinler Malmüdürlüğü"
+  },
+  {
+    "id": 358,
+    "plaka": 25,
+    "il": "ERZURUM",
+    "ilce": "Şenkaya",
+    "muhbir_kodu": 25111,
+    "daire": "Şenkaya Malmüdürlüğü"
+  },
+  {
+    "id": 359,
+    "plaka": 25,
+    "il": "ERZURUM",
+    "ilce": "Tekman",
+    "muhbir_kodu": 25112,
+    "daire": "Tekman Malmüdürlüğü"
+  },
+  {
+    "id": 360,
+    "plaka": 25,
+    "il": "ERZURUM",
+    "ilce": "Tortum",
+    "muhbir_kodu": 25113,
+    "daire": "Tortum Malmüdürlüğü"
+  },
+  {
+    "id": 361,
+    "plaka": 25,
+    "il": "ERZURUM",
+    "ilce": "Karaçoban",
+    "muhbir_kodu": 25114,
+    "daire": "Karaçoban Malmüdürlüğü"
+  },
+  {
+    "id": 362,
+    "plaka": 25,
+    "il": "ERZURUM",
+    "ilce": "Uzundere",
+    "muhbir_kodu": 25115,
+    "daire": "Uzundere Malmüdürlüğü"
+  },
+  {
+    "id": 363,
+    "plaka": 25,
+    "il": "ERZURUM",
+    "ilce": "Pazaryolu",
+    "muhbir_kodu": 25116,
+    "daire": "Pazaryolu Malmüdürlüğü"
+  },
+  {
+    "id": 364,
+    "plaka": 25,
+    "il": "ERZURUM",
+    "ilce": "Merkez",
+    "muhbir_kodu": 25117,
+    "daire": "Aziziye Malmüdürlüğü (Ilıca)"
+  },
+  {
+    "id": 365,
+    "plaka": 25,
+    "il": "ERZURUM",
+    "ilce": "Köprüköy",
+    "muhbir_kodu": 25118,
+    "daire": "Köprüköy Malmüdürlüğü"
+  },
+  {
+    "id": 366,
+    "plaka": 26,
+    "il": "ESKİŞEHİR",
+    "ilce": "Merkez Başkanlık",
+    "muhbir_kodu": 26250,
+    "daire": "Eskişehir Vergi Dairesi Başkanlığı (*)"
+  },
+  {
+    "id": 367,
+    "plaka": 26,
+    "il": "ESKİŞEHİR",
+    "ilce": "Mahmudiye",
+    "muhbir_kodu": 26102,
+    "daire": "Mahmudiye Malmüdürlüğü"
+  },
+  {
+    "id": 368,
+    "plaka": 26,
+    "il": "ESKİŞEHİR",
+    "ilce": "Mihalıççık",
+    "muhbir_kodu": 26103,
+    "daire": "Mihalıççık Malmüdürlüğü"
+  },
+  {
+    "id": 369,
+    "plaka": 26,
+    "il": "ESKİŞEHİR",
+    "ilce": "Sarıcakaya",
+    "muhbir_kodu": 26104,
+    "daire": "Sarıcakaya Malmüdürlüğü"
+  },
+  {
+    "id": 370,
+    "plaka": 26,
+    "il": "ESKİŞEHİR",
+    "ilce": "Seyitgazi",
+    "muhbir_kodu": 26105,
+    "daire": "Seyitgazi Malmüdürlüğü"
+  },
+  {
+    "id": 371,
+    "plaka": 26,
+    "il": "ESKİŞEHİR",
+    "ilce": "Alpu",
+    "muhbir_kodu": 26107,
+    "daire": "Alpu Malmüdürlüğü"
+  },
+  {
+    "id": 372,
+    "plaka": 26,
+    "il": "ESKİŞEHİR",
+    "ilce": "Beylikova",
+    "muhbir_kodu": 26108,
+    "daire": "Beylikova Malmüdürlüğü"
+  },
+  {
+    "id": 373,
+    "plaka": 26,
+    "il": "ESKİŞEHİR",
+    "ilce": "İnönü",
+    "muhbir_kodu": 26109,
+    "daire": "İnönü Malmüdürlüğü"
+  },
+  {
+    "id": 374,
+    "plaka": 26,
+    "il": "ESKİŞEHİR",
+    "ilce": "Günyüzü",
+    "muhbir_kodu": 26110,
+    "daire": "Günyüzü Malmüdürlüğü"
+  },
+  {
+    "id": 375,
+    "plaka": 26,
+    "il": "ESKİŞEHİR",
+    "ilce": "Han",
+    "muhbir_kodu": 26111,
+    "daire": "Han Malmüdürlüğü"
+  },
+  {
+    "id": 376,
+    "plaka": 26,
+    "il": "ESKİŞEHİR",
+    "ilce": "Mihalgazi",
+    "muhbir_kodu": 26112,
+    "daire": "Mihalgazi Malmüdürlüğü"
+  },
+  {
+    "id": 377,
+    "plaka": 27,
+    "il": "GAZİANTEP",
+    "ilce": "Merkez",
+    "muhbir_kodu": 27250,
+    "daire": "Gaziantep İhtisas Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 378,
+    "plaka": 27,
+    "il": "GAZİANTEP",
+    "ilce": "Merkez",
+    "muhbir_kodu": 27251,
+    "daire": "Suburcu Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 379,
+    "plaka": 27,
+    "il": "GAZİANTEP",
+    "ilce": "Merkez",
+    "muhbir_kodu": 27252,
+    "daire": "Şehitkâmil Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 380,
+    "plaka": 27,
+    "il": "GAZİANTEP",
+    "ilce": "Merkez",
+    "muhbir_kodu": 27253,
+    "daire": "Şahinbey Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 381,
+    "plaka": 27,
+    "il": "GAZİANTEP",
+    "ilce": "Merkez",
+    "muhbir_kodu": 27254,
+    "daire": "Gazikent Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 382,
+    "plaka": 27,
+    "il": "GAZİANTEP",
+    "ilce": "Merkez",
+    "muhbir_kodu": 27255,
+    "daire": "Kozanlı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 383,
+    "plaka": 27,
+    "il": "GAZİANTEP",
+    "ilce": "Nizip",
+    "muhbir_kodu": 27202,
+    "daire": "Nizip Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 384,
+    "plaka": 27,
+    "il": "GAZİANTEP",
+    "ilce": "İslahiye",
+    "muhbir_kodu": 27203,
+    "daire": "İslahiye Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 385,
+    "plaka": 27,
+    "il": "GAZİANTEP",
+    "ilce": "Araban",
+    "muhbir_kodu": 27101,
+    "daire": "Araban Malmüdürlüğü"
+  },
+  {
+    "id": 386,
+    "plaka": 27,
+    "il": "GAZİANTEP",
+    "ilce": "Merkez",
+    "muhbir_kodu": 27105,
+    "daire": "Oğuzeli Malmüdürlüğü"
+  },
+  {
+    "id": 387,
+    "plaka": 27,
+    "il": "GAZİANTEP",
+    "ilce": "Yavuzeli",
+    "muhbir_kodu": 27106,
+    "daire": "Yavuzeli Malmüdürlüğü"
+  },
+  {
+    "id": 388,
+    "plaka": 27,
+    "il": "GAZİANTEP",
+    "ilce": "Karkamış",
+    "muhbir_kodu": 27107,
+    "daire": "Karkamış Malmüdürlüğü"
+  },
+  {
+    "id": 389,
+    "plaka": 27,
+    "il": "GAZİANTEP",
+    "ilce": "Nurdağı",
+    "muhbir_kodu": 27108,
+    "daire": "Nurdağı Malmüdürlüğü"
+  },
+  {
+    "id": 390,
+    "plaka": 28,
+    "il": "GİRESUN",
+    "ilce": "Merkez",
+    "muhbir_kodu": 28260,
+    "daire": "Giresun Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 391,
+    "plaka": 28,
+    "il": "GİRESUN",
+    "ilce": "Bulancak",
+    "muhbir_kodu": 28261,
+    "daire": "Bulancak Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 392,
+    "plaka": 28,
+    "il": "GİRESUN",
+    "ilce": "Alucra",
+    "muhbir_kodu": 28101,
+    "daire": "Alucra Malmüdürlüğü"
+  },
+  {
+    "id": 393,
+    "plaka": 28,
+    "il": "GİRESUN",
+    "ilce": "Dereli",
+    "muhbir_kodu": 28103,
+    "daire": "Dereli Malmüdürlüğü"
+  },
+  {
+    "id": 394,
+    "plaka": 28,
+    "il": "GİRESUN",
+    "ilce": "Espiye",
+    "muhbir_kodu": 28104,
+    "daire": "Espiye Malmüdürlüğü"
+  },
+  {
+    "id": 395,
+    "plaka": 28,
+    "il": "GİRESUN",
+    "ilce": "Eynesil",
+    "muhbir_kodu": 28105,
+    "daire": "Eynesil Malmüdürlüğü"
+  },
+  {
+    "id": 396,
+    "plaka": 28,
+    "il": "GİRESUN",
+    "ilce": "Görele",
+    "muhbir_kodu": 28106,
+    "daire": "Görele Malmüdürlüğü"
+  },
+  {
+    "id": 397,
+    "plaka": 28,
+    "il": "GİRESUN",
+    "ilce": "Keşap",
+    "muhbir_kodu": 28107,
+    "daire": "Keşap Malmüdürlüğü"
+  },
+  {
+    "id": 398,
+    "plaka": 28,
+    "il": "GİRESUN",
+    "ilce": "Şebinkarahisar",
+    "muhbir_kodu": 28108,
+    "daire": "Şebinkarahisar Malmüdürlüğü"
+  },
+  {
+    "id": 399,
+    "plaka": 28,
+    "il": "GİRESUN",
+    "ilce": "Tirebolu",
+    "muhbir_kodu": 28109,
+    "daire": "Tirebolu Malmüdürlüğü"
+  },
+  {
+    "id": 400,
+    "plaka": 28,
+    "il": "GİRESUN",
+    "ilce": "Piraziz",
+    "muhbir_kodu": 28110,
+    "daire": "Piraziz Malmüdürlüğü"
+  },
+  {
+    "id": 401,
+    "plaka": 28,
+    "il": "GİRESUN",
+    "ilce": "Yağlıdere",
+    "muhbir_kodu": 28111,
+    "daire": "Yağlıdere Malmüdürlüğü"
+  },
+  {
+    "id": 402,
+    "plaka": 28,
+    "il": "GİRESUN",
+    "ilce": "Çanakçı",
+    "muhbir_kodu": 28112,
+    "daire": "Çanakçı Malmüdürlüğü"
+  },
+  {
+    "id": 403,
+    "plaka": 28,
+    "il": "GİRESUN",
+    "ilce": "Güce",
+    "muhbir_kodu": 28113,
+    "daire": "Güce Malmüdürlüğü"
+  },
+  {
+    "id": 404,
+    "plaka": 28,
+    "il": "GİRESUN",
+    "ilce": "Çamoluk",
+    "muhbir_kodu": 28114,
+    "daire": "Çamoluk Malmüdürlüğü"
+  },
+  {
+    "id": 405,
+    "plaka": 28,
+    "il": "GİRESUN",
+    "ilce": "Doğankent",
+    "muhbir_kodu": 28115,
+    "daire": "Doğankent Malmüdürlüğü"
+  },
+  {
+    "id": 406,
+    "plaka": 29,
+    "il": "GÜMÜŞHANE",
+    "ilce": "Merkez",
+    "muhbir_kodu": 29260,
+    "daire": "Gümüşhane Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 407,
+    "plaka": 29,
+    "il": "GÜMÜŞHANE",
+    "ilce": "Kelkit",
+    "muhbir_kodu": 29102,
+    "daire": "Kelkit Malmüdürlüğü"
+  },
+  {
+    "id": 408,
+    "plaka": 29,
+    "il": "GÜMÜŞHANE",
+    "ilce": "Şiran",
+    "muhbir_kodu": 29103,
+    "daire": "Şiran Malmüdürlüğü"
+  },
+  {
+    "id": 409,
+    "plaka": 29,
+    "il": "GÜMÜŞHANE",
+    "ilce": "Torul",
+    "muhbir_kodu": 29104,
+    "daire": "Torul Malmüdürlüğü"
+  },
+  {
+    "id": 410,
+    "plaka": 29,
+    "il": "GÜMÜŞHANE",
+    "ilce": "Köse",
+    "muhbir_kodu": 29107,
+    "daire": "Köse Malmüdürlüğü"
+  },
+  {
+    "id": 411,
+    "plaka": 29,
+    "il": "GÜMÜŞHANE",
+    "ilce": "Kürtün",
+    "muhbir_kodu": 29108,
+    "daire": "Kürtün Malmüdürlüğü"
+  },
+  {
+    "id": 412,
+    "plaka": 30,
+    "il": "HAKKARİ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 30260,
+    "daire": "Hakkari Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 413,
+    "plaka": 30,
+    "il": "HAKKARİ",
+    "ilce": "Yüksekova",
+    "muhbir_kodu": 30261,
+    "daire": "Yüksekova Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 414,
+    "plaka": 30,
+    "il": "HAKKARİ",
+    "ilce": "Çukurca",
+    "muhbir_kodu": 30102,
+    "daire": "Çukurca Malmüdürlüğü"
+  },
+  {
+    "id": 415,
+    "plaka": 30,
+    "il": "HAKKARİ",
+    "ilce": "Şemdinli",
+    "muhbir_kodu": 30103,
+    "daire": "Şemdinli Malmüdürlüğü"
+  },
+  {
+    "id": 416,
+    "plaka": 30,
+    "il": "HAKKARİ",
+    "ilce": "Derecik",
+    "muhbir_kodu": 30104,
+    "daire": "Derecik Malmüdürlüğü"
+  },
+  {
+    "id": 417,
+    "plaka": 31,
+    "il": "HATAY",
+    "ilce": "Merkez",
+    "muhbir_kodu": 31201,
+    "daire": "23 Temmuz Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 418,
+    "plaka": 31,
+    "il": "HATAY",
+    "ilce": "Merkez",
+    "muhbir_kodu": 31203,
+    "daire": "Antakya Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 419,
+    "plaka": 31,
+    "il": "HATAY",
+    "ilce": "Merkez",
+    "muhbir_kodu": 31280,
+    "daire": "Şükrükanatlı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 420,
+    "plaka": 31,
+    "il": "HATAY",
+    "ilce": "İskenderun",
+    "muhbir_kodu": 31202,
+    "daire": "Sahil Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 421,
+    "plaka": 31,
+    "il": "HATAY",
+    "ilce": "İskenderun",
+    "muhbir_kodu": 31281,
+    "daire": "Akdeniz Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 422,
+    "plaka": 31,
+    "il": "HATAY",
+    "ilce": "İskenderun",
+    "muhbir_kodu": 31290,
+    "daire": "Asım Gündüz Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 423,
+    "plaka": 31,
+    "il": "HATAY",
+    "ilce": "Dörtyol",
+    "muhbir_kodu": 31260,
+    "daire": "Dörtyol Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 424,
+    "plaka": 31,
+    "il": "HATAY",
+    "ilce": "Kırıkhan",
+    "muhbir_kodu": 31261,
+    "daire": "Kırıkhan Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 425,
+    "plaka": 31,
+    "il": "HATAY",
+    "ilce": "Reyhanlı",
+    "muhbir_kodu": 31262,
+    "daire": "Reyhanlı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 426,
+    "plaka": 31,
+    "il": "HATAY",
+    "ilce": "Samandağ",
+    "muhbir_kodu": 31263,
+    "daire": "Samandağ Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 427,
+    "plaka": 31,
+    "il": "HATAY",
+    "ilce": "Altınözü",
+    "muhbir_kodu": 31101,
+    "daire": "Altınözü Malmüdürlüğü"
+  },
+  {
+    "id": 428,
+    "plaka": 31,
+    "il": "HATAY",
+    "ilce": "Hassa",
+    "muhbir_kodu": 31103,
+    "daire": "Hassa Malmüdürlüğü"
+  },
+  {
+    "id": 429,
+    "plaka": 31,
+    "il": "HATAY",
+    "ilce": "Yayladağı",
+    "muhbir_kodu": 31108,
+    "daire": "Yayladağı Malmüdürlüğü"
+  },
+  {
+    "id": 430,
+    "plaka": 31,
+    "il": "HATAY",
+    "ilce": "Erzin",
+    "muhbir_kodu": 31109,
+    "daire": "Erzin Malmüdürlüğü"
+  },
+  {
+    "id": 431,
+    "plaka": 31,
+    "il": "HATAY",
+    "ilce": "Belen",
+    "muhbir_kodu": 31110,
+    "daire": "Belen Malmüdürlüğü"
+  },
+  {
+    "id": 432,
+    "plaka": 31,
+    "il": "HATAY",
+    "ilce": "Kumlu",
+    "muhbir_kodu": 31111,
+    "daire": "Kumlu Malmüdürlüğü"
+  },
+  {
+    "id": 433,
+    "plaka": 32,
+    "il": "ISPARTA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 32201,
+    "daire": "Davraz Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 434,
+    "plaka": 32,
+    "il": "ISPARTA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 32260,
+    "daire": "Kaymakkapı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 435,
+    "plaka": 32,
+    "il": "ISPARTA",
+    "ilce": "Eğirdir",
+    "muhbir_kodu": 32261,
+    "daire": "Eğirdir Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 436,
+    "plaka": 32,
+    "il": "ISPARTA",
+    "ilce": "Yalvaç",
+    "muhbir_kodu": 32262,
+    "daire": "Yalvaç Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 437,
+    "plaka": 32,
+    "il": "ISPARTA",
+    "ilce": "Atabey",
+    "muhbir_kodu": 32101,
+    "daire": "Atabey Malmüdürlüğü"
+  },
+  {
+    "id": 438,
+    "plaka": 32,
+    "il": "ISPARTA",
+    "ilce": "Gelendost",
+    "muhbir_kodu": 32103,
+    "daire": "Gelendost Malmüdürlüğü"
+  },
+  {
+    "id": 439,
+    "plaka": 32,
+    "il": "ISPARTA",
+    "ilce": "Keçiborlu",
+    "muhbir_kodu": 32104,
+    "daire": "Keçiborlu Malmüdürlüğü"
+  },
+  {
+    "id": 440,
+    "plaka": 32,
+    "il": "ISPARTA",
+    "ilce": "Senirkent",
+    "muhbir_kodu": 32105,
+    "daire": "Senirkent Malmüdürlüğü"
+  },
+  {
+    "id": 441,
+    "plaka": 32,
+    "il": "ISPARTA",
+    "ilce": "Sütçüler",
+    "muhbir_kodu": 32106,
+    "daire": "Sütçüler Malmüdürlüğü"
+  },
+  {
+    "id": 442,
+    "plaka": 32,
+    "il": "ISPARTA",
+    "ilce": "Şarkikaraağaç",
+    "muhbir_kodu": 32107,
+    "daire": "Şarkikaraağaç Malmüdürlüğü"
+  },
+  {
+    "id": 443,
+    "plaka": 32,
+    "il": "ISPARTA",
+    "ilce": "Uluborlu",
+    "muhbir_kodu": 32108,
+    "daire": "Uluborlu Malmüdürlüğü"
+  },
+  {
+    "id": 444,
+    "plaka": 32,
+    "il": "ISPARTA",
+    "ilce": "Aksu",
+    "muhbir_kodu": 32110,
+    "daire": "Aksu Malmüdürlüğü"
+  },
+  {
+    "id": 445,
+    "plaka": 32,
+    "il": "ISPARTA",
+    "ilce": "Gönen",
+    "muhbir_kodu": 32111,
+    "daire": "Gönen Malmüdürlüğü"
+  },
+  {
+    "id": 446,
+    "plaka": 32,
+    "il": "ISPARTA",
+    "ilce": "Yenişarbademli",
+    "muhbir_kodu": 32112,
+    "daire": "Yenişarbademli Malmüdürlüğü"
+  },
+  {
+    "id": 447,
+    "plaka": 33,
+    "il": "MERSİN",
+    "ilce": "Merkez",
+    "muhbir_kodu": 33250,
+    "daire": "İstiklâl Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 448,
+    "plaka": 33,
+    "il": "MERSİN",
+    "ilce": "Merkez",
+    "muhbir_kodu": 33252,
+    "daire": "Uray Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 449,
+    "plaka": 33,
+    "il": "MERSİN",
+    "ilce": "Merkez",
+    "muhbir_kodu": 33254,
+    "daire": "Liman Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 450,
+    "plaka": 33,
+    "il": "MERSİN",
+    "ilce": "Merkez",
+    "muhbir_kodu": 33255,
+    "daire": "Toros Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 451,
+    "plaka": 33,
+    "il": "MERSİN",
+    "ilce": "Merkez",
+    "muhbir_kodu": 33256,
+    "daire": "Mersin İhtisas Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 452,
+    "plaka": 33,
+    "il": "MERSİN",
+    "ilce": "Erdemli",
+    "muhbir_kodu": 33201,
+    "daire": "Erdemli Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 453,
+    "plaka": 33,
+    "il": "MERSİN",
+    "ilce": "Silifke",
+    "muhbir_kodu": 33202,
+    "daire": "Silifke Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 454,
+    "plaka": 33,
+    "il": "MERSİN",
+    "ilce": "Anamur",
+    "muhbir_kodu": 33203,
+    "daire": "Anamur Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 455,
+    "plaka": 33,
+    "il": "MERSİN",
+    "ilce": "Tarsus",
+    "muhbir_kodu": 33204,
+    "daire": "Kızılmurat Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 456,
+    "plaka": 33,
+    "il": "MERSİN",
+    "ilce": "Tarsus",
+    "muhbir_kodu": 33205,
+    "daire": "Şehitkerim Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 457,
+    "plaka": 33,
+    "il": "MERSİN",
+    "ilce": "Gülnar",
+    "muhbir_kodu": 33103,
+    "daire": "Gülnar Malmüdürlüğü"
+  },
+  {
+    "id": 458,
+    "plaka": 33,
+    "il": "MERSİN",
+    "ilce": "Mut",
+    "muhbir_kodu": 33104,
+    "daire": "Mut Malmüdürlüğü"
+  },
+  {
+    "id": 459,
+    "plaka": 33,
+    "il": "MERSİN",
+    "ilce": "Aydıncık",
+    "muhbir_kodu": 33107,
+    "daire": "Aydıncık Malmüdürlüğü"
+  },
+  {
+    "id": 460,
+    "plaka": 33,
+    "il": "MERSİN",
+    "ilce": "Bozyazı",
+    "muhbir_kodu": 33108,
+    "daire": "Bozyazı Malmüdürlüğü"
+  },
+  {
+    "id": 461,
+    "plaka": 33,
+    "il": "MERSİN",
+    "ilce": "Çamlıyayla",
+    "muhbir_kodu": 33109,
+    "daire": "Çamlıyayla Malmüdürlüğü"
+  },
+  {
+    "id": 462,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34220,
+    "daire": "Haliç İhtisas Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 463,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34221,
+    "daire": "Vatan İhtisas Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 464,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34222,
+    "daire": "Çamlıca İhtisas Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 465,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34223,
+    "daire": "Alemdağ Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 466,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34224,
+    "daire": "Yenikapı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 467,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez Başkanlık",
+    "muhbir_kodu": 34230,
+    "daire": "Büyük Mükellefler Vergi Dairesi Başkanlığı (*)"
+  },
+  {
+    "id": 468,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34231,
+    "daire": "Boğaziçi Kurumlar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 469,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34232,
+    "daire": "Marmara Kurumlar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 470,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34234,
+    "daire": "Davutpaşa Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 471,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34235,
+    "daire": "Esenler Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 472,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34236,
+    "daire": "Fatih Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 473,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34237,
+    "daire": "Küçükköy Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 474,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34239,
+    "daire": "Merter Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 475,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34242,
+    "daire": "Sultanbeyli Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 476,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34244,
+    "daire": "Anadolu Kurumlar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 477,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34245,
+    "daire": "Tuzla Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 478,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34246,
+    "daire": "Kozyatağı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 479,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34247,
+    "daire": "Maslak Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 480,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34248,
+    "daire": "Zincirlikuyu Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 481,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34249,
+    "daire": "İkitelli Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 482,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34251,
+    "daire": "Beşiktaş Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 483,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34252,
+    "daire": "Ümraniye Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 484,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34253,
+    "daire": "Yeditepe Veraset ve Harçlar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 485,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34254,
+    "daire": "Kasımpaşa Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 486,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34255,
+    "daire": "Erenköy Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 487,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34256,
+    "daire": "Hisar Veraset ve Harçlar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 488,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34257,
+    "daire": "Tuna Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 489,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34258,
+    "daire": "Rıhtım Veraset ve Harçlar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 490,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34259,
+    "daire": "Güngören Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 491,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34260,
+    "daire": "Kocasinan Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 492,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34261,
+    "daire": "Güneşli Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 493,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34262,
+    "daire": "Küçükyalı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 494,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34263,
+    "daire": "Pendik Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 495,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34264,
+    "daire": "Bayrampaşa Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 496,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34265,
+    "daire": "Beyazıt Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 497,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34266,
+    "daire": "Beyoğlu Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 498,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34269,
+    "daire": "Gaziosmanpaşa Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 499,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34270,
+    "daire": "Göztepe Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 500,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34271,
+    "daire": "Hocapaşa Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 501,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34272,
+    "daire": "Kadıköy Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 502,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34273,
+    "daire": "Kocamustafapaşa Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 503,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34274,
+    "daire": "Mecidiyeköy Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 504,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34276,
+    "daire": "Şişli Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 505,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34277,
+    "daire": "Üsküdar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 506,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34278,
+    "daire": "Halkalı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 507,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34279,
+    "daire": "Kağıthane Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 508,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34280,
+    "daire": "Zeytinburnu Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 509,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34281,
+    "daire": "Beykoz Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 510,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34283,
+    "daire": "Sarıyer Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 511,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34284,
+    "daire": "Bakırköy Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 512,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34285,
+    "daire": "Kartal Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 513,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34287,
+    "daire": "Nakil Vasıtaları Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 514,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34288,
+    "daire": "Sarıgazi Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 515,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34291,
+    "daire": "Atışalanı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 516,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34292,
+    "daire": "Yakacık Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 517,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34293,
+    "daire": "Yenibosna Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 518,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34294,
+    "daire": "Avcılar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 519,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34295,
+    "daire": "Adalar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 520,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34296,
+    "daire": "Küçükçekmece Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 521,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34297,
+    "daire": "Beylikdüzü Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 522,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34298,
+    "daire": "Esenyurt Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 523,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34203,
+    "daire": "Silivri Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 524,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34204,
+    "daire": "Büyükçekmece Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 525,
+    "plaka": 34,
+    "il": "İSTANBUL",
+    "ilce": "Merkez",
+    "muhbir_kodu": 34205,
+    "daire": "Şile Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 526,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 35250,
+    "daire": "İzmir İhtisas Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 527,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 35251,
+    "daire": "9 Eylül Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 528,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 35252,
+    "daire": "Yamanlar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 529,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 35254,
+    "daire": "Belkahve Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 530,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 35256,
+    "daire": "Karşıyaka Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 531,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 35257,
+    "daire": "Kemeraltı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 532,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 35258,
+    "daire": "Konak Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 533,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 35259,
+    "daire": "Kordon Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 534,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 35260,
+    "daire": "Şirinyer Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 535,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 35261,
+    "daire": "Kadifekale Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 536,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 35262,
+    "daire": "Taşıtlar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 537,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 35263,
+    "daire": "Hasan Tahsin Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 538,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 35264,
+    "daire": "Bornova Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 539,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 35266,
+    "daire": "Balçova Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 540,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 35267,
+    "daire": "Gaziemir Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 541,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 35268,
+    "daire": "Ege Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 542,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 35269,
+    "daire": "Çiğli Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 543,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 35270,
+    "daire": "Çakabey İhtisas Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 544,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Bayındır",
+    "muhbir_kodu": 35201,
+    "daire": "Bayındır Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 545,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Bergama",
+    "muhbir_kodu": 35202,
+    "daire": "Bergama Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 546,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 35203,
+    "daire": "Menemen Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 547,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Ödemiş",
+    "muhbir_kodu": 35204,
+    "daire": "Ödemiş Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 548,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Tire",
+    "muhbir_kodu": 35205,
+    "daire": "Tire Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 549,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 35206,
+    "daire": "Torbalı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 550,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 35207,
+    "daire": "Kemalpaşa Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 551,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 35208,
+    "daire": "Urla Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 552,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Selçuk",
+    "muhbir_kodu": 35209,
+    "daire": "Selçuk Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 553,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Kınık",
+    "muhbir_kodu": 35210,
+    "daire": "Kınık Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 554,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Kiraz",
+    "muhbir_kodu": 35211,
+    "daire": "Kiraz Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 555,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Çeşme",
+    "muhbir_kodu": 35212,
+    "daire": "Çeşme Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 556,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 35213,
+    "daire": "Aliağa Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 557,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 35215,
+    "daire": "Menderes Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 558,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Dikili",
+    "muhbir_kodu": 35105,
+    "daire": "Dikili Malmüdürlüğü"
+  },
+  {
+    "id": 559,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 35106,
+    "daire": "Foça Malmüdürlüğü"
+  },
+  {
+    "id": 560,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Karaburun",
+    "muhbir_kodu": 35107,
+    "daire": "Karaburun Malmüdürlüğü"
+  },
+  {
+    "id": 561,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 35114,
+    "daire": "Seferihisar Malmüdürlüğü"
+  },
+  {
+    "id": 562,
+    "plaka": 35,
+    "il": "İZMİR",
+    "ilce": "Beydağ",
+    "muhbir_kodu": 35120,
+    "daire": "Beydağ Malmüdürlüğü"
+  },
+  {
+    "id": 563,
+    "plaka": 36,
+    "il": "KARS",
+    "ilce": "Merkez",
+    "muhbir_kodu": 36260,
+    "daire": "Kars Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 564,
+    "plaka": 36,
+    "il": "KARS",
+    "ilce": "Arpaçay",
+    "muhbir_kodu": 36103,
+    "daire": "Arpaçay Malmüdürlüğü"
+  },
+  {
+    "id": 565,
+    "plaka": 36,
+    "il": "KARS",
+    "ilce": "Digor",
+    "muhbir_kodu": 36105,
+    "daire": "Digor Malmüdürlüğü"
+  },
+  {
+    "id": 566,
+    "plaka": 36,
+    "il": "KARS",
+    "ilce": "Kağızman",
+    "muhbir_kodu": 36109,
+    "daire": "Kağızman Malmüdürlüğü"
+  },
+  {
+    "id": 567,
+    "plaka": 36,
+    "il": "KARS",
+    "ilce": "Sarıkamış",
+    "muhbir_kodu": 36111,
+    "daire": "Sarıkamış Malmüdürlüğü"
+  },
+  {
+    "id": 568,
+    "plaka": 36,
+    "il": "KARS",
+    "ilce": "Selim",
+    "muhbir_kodu": 36112,
+    "daire": "Selim Malmüdürlüğü"
+  },
+  {
+    "id": 569,
+    "plaka": 36,
+    "il": "KARS",
+    "ilce": "Susuz",
+    "muhbir_kodu": 36113,
+    "daire": "Susuz Malmüdürlüğü"
+  },
+  {
+    "id": 570,
+    "plaka": 36,
+    "il": "KARS",
+    "ilce": "Akyaka",
+    "muhbir_kodu": 36115,
+    "daire": "Akyaka Malmüdürlüğü"
+  },
+  {
+    "id": 571,
+    "plaka": 37,
+    "il": "KASTAMONU",
+    "ilce": "Merkez",
+    "muhbir_kodu": 37260,
+    "daire": "Kastamonu Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 572,
+    "plaka": 37,
+    "il": "KASTAMONU",
+    "ilce": "Tosya",
+    "muhbir_kodu": 37261,
+    "daire": "Tosya Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 573,
+    "plaka": 37,
+    "il": "KASTAMONU",
+    "ilce": "Taşköprü",
+    "muhbir_kodu": 37262,
+    "daire": "Taşköprü Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 574,
+    "plaka": 37,
+    "il": "KASTAMONU",
+    "ilce": "Araç",
+    "muhbir_kodu": 37101,
+    "daire": "Araç Malmüdürlüğü"
+  },
+  {
+    "id": 575,
+    "plaka": 37,
+    "il": "KASTAMONU",
+    "ilce": "Azdavay",
+    "muhbir_kodu": 37102,
+    "daire": "Azdavay Malmüdürlüğü"
+  },
+  {
+    "id": 576,
+    "plaka": 37,
+    "il": "KASTAMONU",
+    "ilce": "Bozkurt",
+    "muhbir_kodu": 37103,
+    "daire": "Bozkurt Malmüdürlüğü"
+  },
+  {
+    "id": 577,
+    "plaka": 37,
+    "il": "KASTAMONU",
+    "ilce": "Cide",
+    "muhbir_kodu": 37104,
+    "daire": "Cide Malmüdürlüğü"
+  },
+  {
+    "id": 578,
+    "plaka": 37,
+    "il": "KASTAMONU",
+    "ilce": "Çatalzeytin",
+    "muhbir_kodu": 37105,
+    "daire": "Çatalzeytin Malmüdürlüğü"
+  },
+  {
+    "id": 579,
+    "plaka": 37,
+    "il": "KASTAMONU",
+    "ilce": "Daday",
+    "muhbir_kodu": 37106,
+    "daire": "Daday Malmüdürlüğü"
+  },
+  {
+    "id": 580,
+    "plaka": 37,
+    "il": "KASTAMONU",
+    "ilce": "Devrekani",
+    "muhbir_kodu": 37107,
+    "daire": "Devrekani Malmüdürlüğü"
+  },
+  {
+    "id": 581,
+    "plaka": 37,
+    "il": "KASTAMONU",
+    "ilce": "İnebolu",
+    "muhbir_kodu": 37108,
+    "daire": "İnebolu Malmüdürlüğü"
+  },
+  {
+    "id": 582,
+    "plaka": 37,
+    "il": "KASTAMONU",
+    "ilce": "Küre",
+    "muhbir_kodu": 37109,
+    "daire": "Küre Malmüdürlüğü"
+  },
+  {
+    "id": 583,
+    "plaka": 37,
+    "il": "KASTAMONU",
+    "ilce": "Abana",
+    "muhbir_kodu": 37112,
+    "daire": "Abana Malmüdürlüğü"
+  },
+  {
+    "id": 584,
+    "plaka": 37,
+    "il": "KASTAMONU",
+    "ilce": "İhsangazi",
+    "muhbir_kodu": 37113,
+    "daire": "İhsangazi Malmüdürlüğü"
+  },
+  {
+    "id": 585,
+    "plaka": 37,
+    "il": "KASTAMONU",
+    "ilce": "Pınarbaşı",
+    "muhbir_kodu": 37114,
+    "daire": "Pınarbaşı Malmüdürlüğü"
+  },
+  {
+    "id": 586,
+    "plaka": 37,
+    "il": "KASTAMONU",
+    "ilce": "Şenpazar",
+    "muhbir_kodu": 37115,
+    "daire": "Şenpazar Malmüdürlüğü"
+  },
+  {
+    "id": 587,
+    "plaka": 37,
+    "il": "KASTAMONU",
+    "ilce": "Ağlı",
+    "muhbir_kodu": 37116,
+    "daire": "Ağlı Malmüdürlüğü"
+  },
+  {
+    "id": 588,
+    "plaka": 37,
+    "il": "KASTAMONU",
+    "ilce": "Doğanyurt",
+    "muhbir_kodu": 37117,
+    "daire": "Doğanyurt Malmüdürlüğü"
+  },
+  {
+    "id": 589,
+    "plaka": 37,
+    "il": "KASTAMONU",
+    "ilce": "Hanönü",
+    "muhbir_kodu": 37118,
+    "daire": "Hanönü Malmüdürlüğü"
+  },
+  {
+    "id": 590,
+    "plaka": 37,
+    "il": "KASTAMONU",
+    "ilce": "Seydiler",
+    "muhbir_kodu": 37119,
+    "daire": "Seydiler Malmüdürlüğü"
+  },
+  {
+    "id": 591,
+    "plaka": 38,
+    "il": "KAYSERİ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 38250,
+    "daire": "Kayseri İhtisas Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 592,
+    "plaka": 38,
+    "il": "KAYSERİ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 38251,
+    "daire": "Mimar Sinan Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 593,
+    "plaka": 38,
+    "il": "KAYSERİ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 38252,
+    "daire": "Erciyes Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 594,
+    "plaka": 38,
+    "il": "KAYSERİ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 38253,
+    "daire": "Kaleönü Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 595,
+    "plaka": 38,
+    "il": "KAYSERİ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 38254,
+    "daire": "Gevher Nesibe Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 596,
+    "plaka": 38,
+    "il": "KAYSERİ",
+    "ilce": "Develi",
+    "muhbir_kodu": 38201,
+    "daire": "Develi Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 597,
+    "plaka": 38,
+    "il": "KAYSERİ",
+    "ilce": "Pınarbaşı",
+    "muhbir_kodu": 38202,
+    "daire": "Pınarbaşı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 598,
+    "plaka": 38,
+    "il": "KAYSERİ",
+    "ilce": "Bünyan",
+    "muhbir_kodu": 38203,
+    "daire": "Bünyan Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 599,
+    "plaka": 38,
+    "il": "KAYSERİ",
+    "ilce": "Felahiye",
+    "muhbir_kodu": 38103,
+    "daire": "Felahiye Malmüdürlüğü"
+  },
+  {
+    "id": 600,
+    "plaka": 38,
+    "il": "KAYSERİ",
+    "ilce": "İncesu",
+    "muhbir_kodu": 38104,
+    "daire": "İncesu Malmüdürlüğü"
+  },
+  {
+    "id": 601,
+    "plaka": 38,
+    "il": "KAYSERİ",
+    "ilce": "Sarıoğlan",
+    "muhbir_kodu": 38106,
+    "daire": "Sarıoğlan Malmüdürlüğü"
+  },
+  {
+    "id": 602,
+    "plaka": 38,
+    "il": "KAYSERİ",
+    "ilce": "Sarız",
+    "muhbir_kodu": 38107,
+    "daire": "Sarız Malmüdürlüğü"
+  },
+  {
+    "id": 603,
+    "plaka": 38,
+    "il": "KAYSERİ",
+    "ilce": "Tomarza",
+    "muhbir_kodu": 38108,
+    "daire": "Tomarza Malmüdürlüğü"
+  },
+  {
+    "id": 604,
+    "plaka": 38,
+    "il": "KAYSERİ",
+    "ilce": "Yahyalı",
+    "muhbir_kodu": 38109,
+    "daire": "Yahyalı Malmüdürlüğü"
+  },
+  {
+    "id": 605,
+    "plaka": 38,
+    "il": "KAYSERİ",
+    "ilce": "Yeşilhisar",
+    "muhbir_kodu": 38110,
+    "daire": "Yeşilhisar Malmüdürlüğü"
+  },
+  {
+    "id": 606,
+    "plaka": 38,
+    "il": "KAYSERİ",
+    "ilce": "Akkışla",
+    "muhbir_kodu": 38111,
+    "daire": "Akkışla Malmüdürlüğü"
+  },
+  {
+    "id": 607,
+    "plaka": 38,
+    "il": "KAYSERİ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 38113,
+    "daire": "Hacılar Malmüdürlüğü"
+  },
+  {
+    "id": 608,
+    "plaka": 38,
+    "il": "KAYSERİ",
+    "ilce": "Özvatan",
+    "muhbir_kodu": 38114,
+    "daire": "Özvatan Malmüdürlüğü"
+  },
+  {
+    "id": 609,
+    "plaka": 39,
+    "il": "KIRKLARELİ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 39260,
+    "daire": "Kırklareli Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 610,
+    "plaka": 39,
+    "il": "KIRKLARELİ",
+    "ilce": "Lüleburgaz",
+    "muhbir_kodu": 39261,
+    "daire": "Lüleburgaz Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 611,
+    "plaka": 39,
+    "il": "KIRKLARELİ",
+    "ilce": "Babaeski",
+    "muhbir_kodu": 39262,
+    "daire": "Babaeski Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 612,
+    "plaka": 39,
+    "il": "KIRKLARELİ",
+    "ilce": "Demirköy",
+    "muhbir_kodu": 39102,
+    "daire": "Demirköy Malmüdürlüğü"
+  },
+  {
+    "id": 613,
+    "plaka": 39,
+    "il": "KIRKLARELİ",
+    "ilce": "Kofçaz",
+    "muhbir_kodu": 39103,
+    "daire": "Kofçaz Malmüdürlüğü"
+  },
+  {
+    "id": 614,
+    "plaka": 39,
+    "il": "KIRKLARELİ",
+    "ilce": "Pehlivanköy",
+    "muhbir_kodu": 39105,
+    "daire": "Pehlivanköy Malmüdürlüğü"
+  },
+  {
+    "id": 615,
+    "plaka": 39,
+    "il": "KIRKLARELİ",
+    "ilce": "Pınarhisar",
+    "muhbir_kodu": 39106,
+    "daire": "Pınarhisar Malmüdürlüğü"
+  },
+  {
+    "id": 616,
+    "plaka": 39,
+    "il": "KIRKLARELİ",
+    "ilce": "Vize",
+    "muhbir_kodu": 39107,
+    "daire": "Vize Malmüdürlüğü"
+  },
+  {
+    "id": 617,
+    "plaka": 40,
+    "il": "KIRŞEHİR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 40260,
+    "daire": "Kırşehir Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 618,
+    "plaka": 40,
+    "il": "KIRŞEHİR",
+    "ilce": "Kaman",
+    "muhbir_kodu": 40261,
+    "daire": "Kaman Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 619,
+    "plaka": 40,
+    "il": "KIRŞEHİR",
+    "ilce": "Çiçekdağı",
+    "muhbir_kodu": 40101,
+    "daire": "Çiçekdağı Malmüdürlüğü"
+  },
+  {
+    "id": 620,
+    "plaka": 40,
+    "il": "KIRŞEHİR",
+    "ilce": "Mucur",
+    "muhbir_kodu": 40103,
+    "daire": "Mucur Malmüdürlüğü"
+  },
+  {
+    "id": 621,
+    "plaka": 40,
+    "il": "KIRŞEHİR",
+    "ilce": "Akpınar",
+    "muhbir_kodu": 40104,
+    "daire": "Akpınar Malmüdürlüğü"
+  },
+  {
+    "id": 622,
+    "plaka": 40,
+    "il": "KIRŞEHİR",
+    "ilce": "Akçakent",
+    "muhbir_kodu": 40105,
+    "daire": "Akçakent Malmüdürlüğü"
+  },
+  {
+    "id": 623,
+    "plaka": 40,
+    "il": "KIRŞEHİR",
+    "ilce": "Boztepe",
+    "muhbir_kodu": 40106,
+    "daire": "Boztepe Malmüdürlüğü"
+  },
+  {
+    "id": 624,
+    "plaka": 41,
+    "il": "KOCAELİ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 41250,
+    "daire": "Kocaeli İhtisas Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 625,
+    "plaka": 41,
+    "il": "KOCAELİ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 41252,
+    "daire": "Tepecik Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 626,
+    "plaka": 41,
+    "il": "KOCAELİ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 41253,
+    "daire": "Alemdar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 627,
+    "plaka": 41,
+    "il": "KOCAELİ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 41254,
+    "daire": "Gebze İhtisas Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 628,
+    "plaka": 41,
+    "il": "KOCAELİ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 41290,
+    "daire": "Acısu Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 629,
+    "plaka": 41,
+    "il": "KOCAELİ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 41202,
+    "daire": "Uluçınar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 630,
+    "plaka": 41,
+    "il": "KOCAELİ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 41203,
+    "daire": "İlyasbey Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 631,
+    "plaka": 41,
+    "il": "KOCAELİ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 41204,
+    "daire": "Gölcük Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 632,
+    "plaka": 41,
+    "il": "KOCAELİ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 41205,
+    "daire": "Karamürsel Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 633,
+    "plaka": 41,
+    "il": "KOCAELİ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 41206,
+    "daire": "Körfez Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 634,
+    "plaka": 41,
+    "il": "KOCAELİ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 41207,
+    "daire": "Derince Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 635,
+    "plaka": 41,
+    "il": "KOCAELİ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 41103,
+    "daire": "Kandıra Malmüdürlüğü"
+  },
+  {
+    "id": 636,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 42250,
+    "daire": "Konya İhtisas Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 637,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 42251,
+    "daire": "Selçuk Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 638,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 42252,
+    "daire": "Mevlana Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 639,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 42253,
+    "daire": "Meram Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 640,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 42254,
+    "daire": "Alaaddin Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 641,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Akşehir",
+    "muhbir_kodu": 42201,
+    "daire": "Akşehir Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 642,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Ereğli",
+    "muhbir_kodu": 42202,
+    "daire": "Ereğli Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 643,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Beyşehir",
+    "muhbir_kodu": 42204,
+    "daire": "Beyşehir Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 644,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Cihanbeyli",
+    "muhbir_kodu": 42205,
+    "daire": "Cihanbeyli Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 645,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Çumra",
+    "muhbir_kodu": 42206,
+    "daire": "Çumra Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 646,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Seydişehir",
+    "muhbir_kodu": 42207,
+    "daire": "Seydişehir Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 647,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Ilgın",
+    "muhbir_kodu": 42208,
+    "daire": "Ilgın Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 648,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Kulu",
+    "muhbir_kodu": 42209,
+    "daire": "Kulu Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 649,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Karapınar",
+    "muhbir_kodu": 42210,
+    "daire": "Karapınar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 650,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Bozkır",
+    "muhbir_kodu": 42103,
+    "daire": "Bozkır Malmüdürlüğü"
+  },
+  {
+    "id": 651,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Doğanhisar",
+    "muhbir_kodu": 42106,
+    "daire": "Doğanhisar Malmüdürlüğü"
+  },
+  {
+    "id": 652,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Hadim",
+    "muhbir_kodu": 42109,
+    "daire": "Hadim Malmüdürlüğü"
+  },
+  {
+    "id": 653,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Kadınhanı",
+    "muhbir_kodu": 42111,
+    "daire": "Kadınhanı Malmüdürlüğü"
+  },
+  {
+    "id": 654,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Sarayönü",
+    "muhbir_kodu": 42115,
+    "daire": "Sarayönü Malmüdürlüğü"
+  },
+  {
+    "id": 655,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Yunak",
+    "muhbir_kodu": 42117,
+    "daire": "Yunak Malmüdürlüğü"
+  },
+  {
+    "id": 656,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Akören",
+    "muhbir_kodu": 42118,
+    "daire": "Akören Malmüdürlüğü"
+  },
+  {
+    "id": 657,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Altınekin",
+    "muhbir_kodu": 42119,
+    "daire": "Altınekin Malmüdürlüğü"
+  },
+  {
+    "id": 658,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Derebucak",
+    "muhbir_kodu": 42121,
+    "daire": "Derebucak Malmüdürlüğü"
+  },
+  {
+    "id": 659,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Hüyük",
+    "muhbir_kodu": 42122,
+    "daire": "Hüyük Malmüdürlüğü"
+  },
+  {
+    "id": 660,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Taşkent",
+    "muhbir_kodu": 42123,
+    "daire": "Taşkent Malmüdürlüğü"
+  },
+  {
+    "id": 661,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Ahırlı",
+    "muhbir_kodu": 42124,
+    "daire": "Ahırlı Malmüdürlüğü"
+  },
+  {
+    "id": 662,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Çeltik",
+    "muhbir_kodu": 42125,
+    "daire": "Çeltik Malmüdürlüğü"
+  },
+  {
+    "id": 663,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Derbent",
+    "muhbir_kodu": 42126,
+    "daire": "Derbent Malmüdürlüğü"
+  },
+  {
+    "id": 664,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Emirgazi",
+    "muhbir_kodu": 42127,
+    "daire": "Emirgazi Malmüdürlüğü"
+  },
+  {
+    "id": 665,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Güneysınır",
+    "muhbir_kodu": 42128,
+    "daire": "Güneysınır Malmüdürlüğü"
+  },
+  {
+    "id": 666,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Halkapınar",
+    "muhbir_kodu": 42129,
+    "daire": "Halkapınar Malmüdürlüğü"
+  },
+  {
+    "id": 667,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Tuzlukçu",
+    "muhbir_kodu": 42130,
+    "daire": "Tuzlukçu Malmüdürlüğü"
+  },
+  {
+    "id": 668,
+    "plaka": 42,
+    "il": "KONYA",
+    "ilce": "Yalıhüyük",
+    "muhbir_kodu": 42131,
+    "daire": "Yalıhüyük Malmüdürlüğü"
+  },
+  {
+    "id": 669,
+    "plaka": 43,
+    "il": "KÜTAHYA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 43201,
+    "daire": "30 Ağustos Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 670,
+    "plaka": 43,
+    "il": "KÜTAHYA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 43280,
+    "daire": "Çinili Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 671,
+    "plaka": 43,
+    "il": "KÜTAHYA",
+    "ilce": "Gediz",
+    "muhbir_kodu": 43260,
+    "daire": "Gediz Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 672,
+    "plaka": 43,
+    "il": "KÜTAHYA",
+    "ilce": "Simav",
+    "muhbir_kodu": 43261,
+    "daire": "Simav Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 673,
+    "plaka": 43,
+    "il": "KÜTAHYA",
+    "ilce": "Tavşanlı",
+    "muhbir_kodu": 43262,
+    "daire": "Tavşanlı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 674,
+    "plaka": 43,
+    "il": "KÜTAHYA",
+    "ilce": "Emet",
+    "muhbir_kodu": 43263,
+    "daire": "Emet Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 675,
+    "plaka": 43,
+    "il": "KÜTAHYA",
+    "ilce": "Altıntaş",
+    "muhbir_kodu": 43101,
+    "daire": "Altıntaş Malmüdürlüğü"
+  },
+  {
+    "id": 676,
+    "plaka": 43,
+    "il": "KÜTAHYA",
+    "ilce": "Domaniç",
+    "muhbir_kodu": 43102,
+    "daire": "Domaniç Malmüdürlüğü"
+  },
+  {
+    "id": 677,
+    "plaka": 43,
+    "il": "KÜTAHYA",
+    "ilce": "Aslanapa",
+    "muhbir_kodu": 43107,
+    "daire": "Aslanapa Malmüdürlüğü"
+  },
+  {
+    "id": 678,
+    "plaka": 43,
+    "il": "KÜTAHYA",
+    "ilce": "Dumlupınar",
+    "muhbir_kodu": 43108,
+    "daire": "Dumlupınar Malmüdürlüğü"
+  },
+  {
+    "id": 679,
+    "plaka": 43,
+    "il": "KÜTAHYA",
+    "ilce": "Hisarcık",
+    "muhbir_kodu": 43109,
+    "daire": "Hisarcık Malmüdürlüğü"
+  },
+  {
+    "id": 680,
+    "plaka": 43,
+    "il": "KÜTAHYA",
+    "ilce": "Şaphane",
+    "muhbir_kodu": 43110,
+    "daire": "Şaphane Malmüdürlüğü"
+  },
+  {
+    "id": 681,
+    "plaka": 43,
+    "il": "KÜTAHYA",
+    "ilce": "Çavdarhisar",
+    "muhbir_kodu": 43111,
+    "daire": "Çavdarhisar Malmüdürlüğü"
+  },
+  {
+    "id": 682,
+    "plaka": 43,
+    "il": "KÜTAHYA",
+    "ilce": "Pazarlar",
+    "muhbir_kodu": 43112,
+    "daire": "Pazarlar Malmüdürlüğü"
+  },
+  {
+    "id": 683,
+    "plaka": 44,
+    "il": "MALATYA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 44251,
+    "daire": "Fırat Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 684,
+    "plaka": 44,
+    "il": "MALATYA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 44252,
+    "daire": "Beydağı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 685,
+    "plaka": 44,
+    "il": "MALATYA",
+    "ilce": "Akçadağ",
+    "muhbir_kodu": 44101,
+    "daire": "Akçadağ Malmüdürlüğü"
+  },
+  {
+    "id": 686,
+    "plaka": 44,
+    "il": "MALATYA",
+    "ilce": "Arapgir",
+    "muhbir_kodu": 44102,
+    "daire": "Arapgir Malmüdürlüğü"
+  },
+  {
+    "id": 687,
+    "plaka": 44,
+    "il": "MALATYA",
+    "ilce": "Arguvan",
+    "muhbir_kodu": 44103,
+    "daire": "Arguvan Malmüdürlüğü"
+  },
+  {
+    "id": 688,
+    "plaka": 44,
+    "il": "MALATYA",
+    "ilce": "Darende",
+    "muhbir_kodu": 44104,
+    "daire": "Darende Malmüdürlüğü"
+  },
+  {
+    "id": 689,
+    "plaka": 44,
+    "il": "MALATYA",
+    "ilce": "Doğanşehir",
+    "muhbir_kodu": 44105,
+    "daire": "Doğanşehir Malmüdürlüğü"
+  },
+  {
+    "id": 690,
+    "plaka": 44,
+    "il": "MALATYA",
+    "ilce": "Hekimhan",
+    "muhbir_kodu": 44106,
+    "daire": "Hekimhan Malmüdürlüğü"
+  },
+  {
+    "id": 691,
+    "plaka": 44,
+    "il": "MALATYA",
+    "ilce": "Pütürge",
+    "muhbir_kodu": 44107,
+    "daire": "Pütürge Malmüdürlüğü"
+  },
+  {
+    "id": 692,
+    "plaka": 44,
+    "il": "MALATYA",
+    "ilce": "Yeşilyurt",
+    "muhbir_kodu": 44108,
+    "daire": "Yeşilyurt Malmüdürlüğü"
+  },
+  {
+    "id": 693,
+    "plaka": 44,
+    "il": "MALATYA",
+    "ilce": "Battalgazi",
+    "muhbir_kodu": 44109,
+    "daire": "Battalgazi Malmüdürlüğü"
+  },
+  {
+    "id": 694,
+    "plaka": 44,
+    "il": "MALATYA",
+    "ilce": "Doğanyol",
+    "muhbir_kodu": 44110,
+    "daire": "Doğanyol Malmüdürlüğü"
+  },
+  {
+    "id": 695,
+    "plaka": 44,
+    "il": "MALATYA",
+    "ilce": "Kale",
+    "muhbir_kodu": 44111,
+    "daire": "Kale Malmüdürlüğü"
+  },
+  {
+    "id": 696,
+    "plaka": 44,
+    "il": "MALATYA",
+    "ilce": "Kuluncak",
+    "muhbir_kodu": 44112,
+    "daire": "Kuluncak Malmüdürlüğü"
+  },
+  {
+    "id": 697,
+    "plaka": 44,
+    "il": "MALATYA",
+    "ilce": "Yazıhan",
+    "muhbir_kodu": 44113,
+    "daire": "Yazıhan Malmüdürlüğü"
+  },
+  {
+    "id": 698,
+    "plaka": 45,
+    "il": "MANİSA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 45250,
+    "daire": "Manisa İhtisas Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 699,
+    "plaka": 45,
+    "il": "MANİSA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 45251,
+    "daire": "Şehit Cihan Güneş Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 700,
+    "plaka": 45,
+    "il": "MANİSA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 45252,
+    "daire": "Mesir Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 701,
+    "plaka": 45,
+    "il": "MANİSA",
+    "ilce": "Akhisar",
+    "muhbir_kodu": 45201,
+    "daire": "Akhisar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 702,
+    "plaka": 45,
+    "il": "MANİSA",
+    "ilce": "Alaşehir",
+    "muhbir_kodu": 45202,
+    "daire": "Alaşehir Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 703,
+    "plaka": 45,
+    "il": "MANİSA",
+    "ilce": "Demirci",
+    "muhbir_kodu": 45203,
+    "daire": "Demirci Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 704,
+    "plaka": 45,
+    "il": "MANİSA",
+    "ilce": "Kırkağaç",
+    "muhbir_kodu": 45204,
+    "daire": "Kırkağaç Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 705,
+    "plaka": 45,
+    "il": "MANİSA",
+    "ilce": "Salihli",
+    "muhbir_kodu": 45205,
+    "daire": "Salihli Adil Oral Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 706,
+    "plaka": 45,
+    "il": "MANİSA",
+    "ilce": "Sarıgöl",
+    "muhbir_kodu": 45206,
+    "daire": "Sarıgöl Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 707,
+    "plaka": 45,
+    "il": "MANİSA",
+    "ilce": "Saruhanlı",
+    "muhbir_kodu": 45207,
+    "daire": "Saruhanlı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 708,
+    "plaka": 45,
+    "il": "MANİSA",
+    "ilce": "Soma",
+    "muhbir_kodu": 45208,
+    "daire": "Soma Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 709,
+    "plaka": 45,
+    "il": "MANİSA",
+    "ilce": "Turgutlu",
+    "muhbir_kodu": 45209,
+    "daire": "Turgutlu Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 710,
+    "plaka": 45,
+    "il": "MANİSA",
+    "ilce": "Gördes",
+    "muhbir_kodu": 45210,
+    "daire": "Gördes Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 711,
+    "plaka": 45,
+    "il": "MANİSA",
+    "ilce": "Kula",
+    "muhbir_kodu": 45211,
+    "daire": "Kula Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 712,
+    "plaka": 45,
+    "il": "MANİSA",
+    "ilce": "Selendi",
+    "muhbir_kodu": 45110,
+    "daire": "Selendi Malmüdürlüğü"
+  },
+  {
+    "id": 713,
+    "plaka": 45,
+    "il": "MANİSA",
+    "ilce": "Ahmetli",
+    "muhbir_kodu": 45113,
+    "daire": "Ahmetli Malmüdürlüğü"
+  },
+  {
+    "id": 714,
+    "plaka": 45,
+    "il": "MANİSA",
+    "ilce": "Gölmarmara",
+    "muhbir_kodu": 45114,
+    "daire": "Gölmarmara Malmüdürlüğü"
+  },
+  {
+    "id": 715,
+    "plaka": 45,
+    "il": "MANİSA",
+    "ilce": "Köprübaşı",
+    "muhbir_kodu": 45115,
+    "daire": "Köprübaşı Malmüdürlüğü"
+  },
+  {
+    "id": 716,
+    "plaka": 46,
+    "il": "KAHRAMANMARAŞ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 46201,
+    "daire": "Aslanbey Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 717,
+    "plaka": 46,
+    "il": "KAHRAMANMARAŞ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 46280,
+    "daire": "Aksu Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 718,
+    "plaka": 46,
+    "il": "KAHRAMANMARAŞ",
+    "ilce": "Elbistan",
+    "muhbir_kodu": 46260,
+    "daire": "Elbistan Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 719,
+    "plaka": 46,
+    "il": "KAHRAMANMARAŞ",
+    "ilce": "Afşin",
+    "muhbir_kodu": 46261,
+    "daire": "Afşin Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 720,
+    "plaka": 46,
+    "il": "KAHRAMANMARAŞ",
+    "ilce": "Pazarcık",
+    "muhbir_kodu": 46262,
+    "daire": "Pazarcık Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 721,
+    "plaka": 46,
+    "il": "KAHRAMANMARAŞ",
+    "ilce": "Andırın",
+    "muhbir_kodu": 46102,
+    "daire": "Andırın Malmüdürlüğü"
+  },
+  {
+    "id": 722,
+    "plaka": 46,
+    "il": "KAHRAMANMARAŞ",
+    "ilce": "Göksun",
+    "muhbir_kodu": 46104,
+    "daire": "Göksun Malmüdürlüğü"
+  },
+  {
+    "id": 723,
+    "plaka": 46,
+    "il": "KAHRAMANMARAŞ",
+    "ilce": "Türkoğlu",
+    "muhbir_kodu": 46106,
+    "daire": "Türkoğlu Malmüdürlüğü"
+  },
+  {
+    "id": 724,
+    "plaka": 46,
+    "il": "KAHRAMANMARAŞ",
+    "ilce": "Çağlayancerit",
+    "muhbir_kodu": 46107,
+    "daire": "Çağlayancerit Malmüdürlüğü"
+  },
+  {
+    "id": 725,
+    "plaka": 46,
+    "il": "KAHRAMANMARAŞ",
+    "ilce": "Ekinözü",
+    "muhbir_kodu": 46108,
+    "daire": "Ekinözü Malmüdürlüğü"
+  },
+  {
+    "id": 726,
+    "plaka": 46,
+    "il": "KAHRAMANMARAŞ",
+    "ilce": "Nurhak",
+    "muhbir_kodu": 46109,
+    "daire": "Nurhak Malmüdürlüğü"
+  },
+  {
+    "id": 727,
+    "plaka": 47,
+    "il": "MARDİN",
+    "ilce": "Merkez",
+    "muhbir_kodu": 47260,
+    "daire": "Mardin Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 728,
+    "plaka": 47,
+    "il": "MARDİN",
+    "ilce": "Kızıltepe",
+    "muhbir_kodu": 47261,
+    "daire": "Kızıltepe Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 729,
+    "plaka": 47,
+    "il": "MARDİN",
+    "ilce": "Nusaybin",
+    "muhbir_kodu": 47262,
+    "daire": "Nusaybin Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 730,
+    "plaka": 47,
+    "il": "MARDİN",
+    "ilce": "Derik",
+    "muhbir_kodu": 47102,
+    "daire": "Derik Malmüdürlüğü"
+  },
+  {
+    "id": 731,
+    "plaka": 47,
+    "il": "MARDİN",
+    "ilce": "Mazıdağı",
+    "muhbir_kodu": 47106,
+    "daire": "Mazıdağı Malmüdürlüğü"
+  },
+  {
+    "id": 732,
+    "plaka": 47,
+    "il": "MARDİN",
+    "ilce": "Midyat",
+    "muhbir_kodu": 47107,
+    "daire": "Midyat Malmüdürlüğü"
+  },
+  {
+    "id": 733,
+    "plaka": 47,
+    "il": "MARDİN",
+    "ilce": "Ömerli",
+    "muhbir_kodu": 47109,
+    "daire": "Ömerli Malmüdürlüğü"
+  },
+  {
+    "id": 734,
+    "plaka": 47,
+    "il": "MARDİN",
+    "ilce": "Savur",
+    "muhbir_kodu": 47110,
+    "daire": "Savur Malmüdürlüğü"
+  },
+  {
+    "id": 735,
+    "plaka": 47,
+    "il": "MARDİN",
+    "ilce": "Dargeçit",
+    "muhbir_kodu": 47112,
+    "daire": "Dargeçit Malmüdürlüğü"
+  },
+  {
+    "id": 736,
+    "plaka": 47,
+    "il": "MARDİN",
+    "ilce": "Yeşilli",
+    "muhbir_kodu": 47113,
+    "daire": "Yeşilli Malmüdürlüğü"
+  },
+  {
+    "id": 737,
+    "plaka": 48,
+    "il": "MUĞLA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 48260,
+    "daire": "Muğla Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 738,
+    "plaka": 48,
+    "il": "MUĞLA",
+    "ilce": "Bodrum",
+    "muhbir_kodu": 48261,
+    "daire": "Bodrum Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 739,
+    "plaka": 48,
+    "il": "MUĞLA",
+    "ilce": "Fethiye",
+    "muhbir_kodu": 48262,
+    "daire": "Fethiye Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 740,
+    "plaka": 48,
+    "il": "MUĞLA",
+    "ilce": "Köyceğiz",
+    "muhbir_kodu": 48263,
+    "daire": "Köyceğiz Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 741,
+    "plaka": 48,
+    "il": "MUĞLA",
+    "ilce": "Milas",
+    "muhbir_kodu": 48264,
+    "daire": "Milas Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 742,
+    "plaka": 48,
+    "il": "MUĞLA",
+    "ilce": "Marmaris",
+    "muhbir_kodu": 48265,
+    "daire": "Marmaris Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 743,
+    "plaka": 48,
+    "il": "MUĞLA",
+    "ilce": "Yatağan",
+    "muhbir_kodu": 48266,
+    "daire": "Yatağan Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 744,
+    "plaka": 48,
+    "il": "MUĞLA",
+    "ilce": "Datça",
+    "muhbir_kodu": 48102,
+    "daire": "Datça Malmüdürlüğü"
+  },
+  {
+    "id": 745,
+    "plaka": 48,
+    "il": "MUĞLA",
+    "ilce": "Ula",
+    "muhbir_kodu": 48108,
+    "daire": "Ula Malmüdürlüğü"
+  },
+  {
+    "id": 746,
+    "plaka": 48,
+    "il": "MUĞLA",
+    "ilce": "Dalaman",
+    "muhbir_kodu": 48109,
+    "daire": "Dalaman Malmüdürlüğü"
+  },
+  {
+    "id": 747,
+    "plaka": 48,
+    "il": "MUĞLA",
+    "ilce": "Ortaca",
+    "muhbir_kodu": 48110,
+    "daire": "Ortaca Malmüdürlüğü"
+  },
+  {
+    "id": 748,
+    "plaka": 48,
+    "il": "MUĞLA",
+    "ilce": "Kavaklıdere",
+    "muhbir_kodu": 48111,
+    "daire": "Kavaklıdere Malmüdürlüğü"
+  },
+  {
+    "id": 749,
+    "plaka": 48,
+    "il": "MUĞLA",
+    "ilce": "Seydiemer",
+    "muhbir_kodu": 48113,
+    "daire": "Seydikemer Malmüdürlüğü"
+  },
+  {
+    "id": 750,
+    "plaka": 49,
+    "il": "MUŞ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 49260,
+    "daire": "Muş Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 751,
+    "plaka": 49,
+    "il": "MUŞ",
+    "ilce": "Bulanık",
+    "muhbir_kodu": 49101,
+    "daire": "Bulanık Malmüdürlüğü"
+  },
+  {
+    "id": 752,
+    "plaka": 49,
+    "il": "MUŞ",
+    "ilce": "Malazgirt",
+    "muhbir_kodu": 49102,
+    "daire": "Malazgirt Malmüdürlüğü"
+  },
+  {
+    "id": 753,
+    "plaka": 49,
+    "il": "MUŞ",
+    "ilce": "Varto",
+    "muhbir_kodu": 49103,
+    "daire": "Varto Malmüdürlüğü"
+  },
+  {
+    "id": 754,
+    "plaka": 49,
+    "il": "MUŞ",
+    "ilce": "Hasköy",
+    "muhbir_kodu": 49104,
+    "daire": "Hasköy Malmüdürlüğü"
+  },
+  {
+    "id": 755,
+    "plaka": 49,
+    "il": "MUŞ",
+    "ilce": "Korkut",
+    "muhbir_kodu": 49105,
+    "daire": "Korkut Malmüdürlüğü"
+  },
+  {
+    "id": 756,
+    "plaka": 50,
+    "il": "NEVŞEHİR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 50260,
+    "daire": "Nevşehir Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 757,
+    "plaka": 50,
+    "il": "NEVŞEHİR",
+    "ilce": "Avanos",
+    "muhbir_kodu": 50101,
+    "daire": "Avanos Malmüdürlüğü"
+  },
+  {
+    "id": 758,
+    "plaka": 50,
+    "il": "NEVŞEHİR",
+    "ilce": "Derinkuyu",
+    "muhbir_kodu": 50102,
+    "daire": "Derinkuyu Malmüdürlüğü"
+  },
+  {
+    "id": 759,
+    "plaka": 50,
+    "il": "NEVŞEHİR",
+    "ilce": "Gülşehir",
+    "muhbir_kodu": 50103,
+    "daire": "Gülşehir Malmüdürlüğü"
+  },
+  {
+    "id": 760,
+    "plaka": 50,
+    "il": "NEVŞEHİR",
+    "ilce": "Hacıbektaş",
+    "muhbir_kodu": 50104,
+    "daire": "Hacıbektaş Malmüdürlüğü"
+  },
+  {
+    "id": 761,
+    "plaka": 50,
+    "il": "NEVŞEHİR",
+    "ilce": "Kozaklı",
+    "muhbir_kodu": 50105,
+    "daire": "Kozaklı Malmüdürlüğü"
+  },
+  {
+    "id": 762,
+    "plaka": 50,
+    "il": "NEVŞEHİR",
+    "ilce": "Ürgüp",
+    "muhbir_kodu": 50106,
+    "daire": "Ürgüp Malmüdürlüğü"
+  },
+  {
+    "id": 763,
+    "plaka": 50,
+    "il": "NEVŞEHİR",
+    "ilce": "Acıgöl",
+    "muhbir_kodu": 50107,
+    "daire": "Acıgöl Malmüdürlüğü"
+  },
+  {
+    "id": 764,
+    "plaka": 51,
+    "il": "NİĞDE",
+    "ilce": "Merkez",
+    "muhbir_kodu": 51260,
+    "daire": "Niğde Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 765,
+    "plaka": 51,
+    "il": "NİĞDE",
+    "ilce": "Bor",
+    "muhbir_kodu": 51262,
+    "daire": "Bor Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 766,
+    "plaka": 51,
+    "il": "NİĞDE",
+    "ilce": "Çamardı",
+    "muhbir_kodu": 51103,
+    "daire": "Çamardı Malmüdürlüğü"
+  },
+  {
+    "id": 767,
+    "plaka": 51,
+    "il": "NİĞDE",
+    "ilce": "Ulukışla",
+    "muhbir_kodu": 51105,
+    "daire": "Ulukışla Malmüdürlüğü"
+  },
+  {
+    "id": 768,
+    "plaka": 51,
+    "il": "NİĞDE",
+    "ilce": "Altunhisar",
+    "muhbir_kodu": 51106,
+    "daire": "Altunhisar Malmüdürlüğü"
+  },
+  {
+    "id": 769,
+    "plaka": 51,
+    "il": "NİĞDE",
+    "ilce": "Çiftlik",
+    "muhbir_kodu": 51107,
+    "daire": "Çiftlik Malmüdürlüğü"
+  },
+  {
+    "id": 770,
+    "plaka": 52,
+    "il": "ORDU",
+    "ilce": "Merkez",
+    "muhbir_kodu": 52201,
+    "daire": "Boztepe Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 771,
+    "plaka": 52,
+    "il": "ORDU",
+    "ilce": "Merkez",
+    "muhbir_kodu": 52260,
+    "daire": "Köprübaşı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 772,
+    "plaka": 52,
+    "il": "ORDU",
+    "ilce": "Fatsa",
+    "muhbir_kodu": 52261,
+    "daire": "Fatsa Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 773,
+    "plaka": 52,
+    "il": "ORDU",
+    "ilce": "Ünye",
+    "muhbir_kodu": 52262,
+    "daire": "Ünye Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 774,
+    "plaka": 52,
+    "il": "ORDU",
+    "ilce": "Akkuş",
+    "muhbir_kodu": 52101,
+    "daire": "Akkuş Malmüdürlüğü"
+  },
+  {
+    "id": 775,
+    "plaka": 52,
+    "il": "ORDU",
+    "ilce": "Aybastı",
+    "muhbir_kodu": 52102,
+    "daire": "Aybastı Malmüdürlüğü"
+  },
+  {
+    "id": 776,
+    "plaka": 52,
+    "il": "ORDU",
+    "ilce": "Gölköy",
+    "muhbir_kodu": 52104,
+    "daire": "Gölköy Malmüdürlüğü"
+  },
+  {
+    "id": 777,
+    "plaka": 52,
+    "il": "ORDU",
+    "ilce": "Korgan",
+    "muhbir_kodu": 52105,
+    "daire": "Korgan Malmüdürlüğü"
+  },
+  {
+    "id": 778,
+    "plaka": 52,
+    "il": "ORDU",
+    "ilce": "Kumru",
+    "muhbir_kodu": 52106,
+    "daire": "Kumru Malmüdürlüğü"
+  },
+  {
+    "id": 779,
+    "plaka": 52,
+    "il": "ORDU",
+    "ilce": "Mesudiye",
+    "muhbir_kodu": 52107,
+    "daire": "Mesudiye Malmüdürlüğü"
+  },
+  {
+    "id": 780,
+    "plaka": 52,
+    "il": "ORDU",
+    "ilce": "Perşembe",
+    "muhbir_kodu": 52108,
+    "daire": "Perşembe Malmüdürlüğü"
+  },
+  {
+    "id": 781,
+    "plaka": 52,
+    "il": "ORDU",
+    "ilce": "Ulubey",
+    "muhbir_kodu": 52109,
+    "daire": "Ulubey Malmüdürlüğü"
+  },
+  {
+    "id": 782,
+    "plaka": 52,
+    "il": "ORDU",
+    "ilce": "Gülyalı",
+    "muhbir_kodu": 52111,
+    "daire": "Gülyalı Malmüdürlüğü"
+  },
+  {
+    "id": 783,
+    "plaka": 52,
+    "il": "ORDU",
+    "ilce": "Gürgentepe",
+    "muhbir_kodu": 52112,
+    "daire": "Gürgentepe Malmüdürlüğü"
+  },
+  {
+    "id": 784,
+    "plaka": 52,
+    "il": "ORDU",
+    "ilce": "Çamaş",
+    "muhbir_kodu": 52113,
+    "daire": "Çamaş Malmüdürlüğü"
+  },
+  {
+    "id": 785,
+    "plaka": 52,
+    "il": "ORDU",
+    "ilce": "Çatalpınar",
+    "muhbir_kodu": 52114,
+    "daire": "Çatalpınar Malmüdürlüğü"
+  },
+  {
+    "id": 786,
+    "plaka": 52,
+    "il": "ORDU",
+    "ilce": "Çaybaşı",
+    "muhbir_kodu": 52115,
+    "daire": "Çaybaşı Malmüdürlüğü"
+  },
+  {
+    "id": 787,
+    "plaka": 52,
+    "il": "ORDU",
+    "ilce": "İkizce",
+    "muhbir_kodu": 52116,
+    "daire": "İkizce Malmüdürlüğü"
+  },
+  {
+    "id": 788,
+    "plaka": 52,
+    "il": "ORDU",
+    "ilce": "Kabadüz",
+    "muhbir_kodu": 52117,
+    "daire": "Kabadüz Malmüdürlüğü"
+  },
+  {
+    "id": 789,
+    "plaka": 52,
+    "il": "ORDU",
+    "ilce": "Kabataş",
+    "muhbir_kodu": 52118,
+    "daire": "Kabataş Malmüdürlüğü"
+  },
+  {
+    "id": 790,
+    "plaka": 53,
+    "il": "RİZE",
+    "ilce": "Merkez",
+    "muhbir_kodu": 53201,
+    "daire": "Kaçkar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 791,
+    "plaka": 53,
+    "il": "RİZE",
+    "ilce": "Merkez",
+    "muhbir_kodu": 53260,
+    "daire": "Yeşilçay Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 792,
+    "plaka": 53,
+    "il": "RİZE",
+    "ilce": "Çayeli",
+    "muhbir_kodu": 53261,
+    "daire": "Çayeli Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 793,
+    "plaka": 53,
+    "il": "RİZE",
+    "ilce": "Pazar",
+    "muhbir_kodu": 53262,
+    "daire": "Pazar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 794,
+    "plaka": 53,
+    "il": "RİZE",
+    "ilce": "Ardeşen",
+    "muhbir_kodu": 53263,
+    "daire": "Ardeşen Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 795,
+    "plaka": 53,
+    "il": "RİZE",
+    "ilce": "Çamlıhemşin",
+    "muhbir_kodu": 53102,
+    "daire": "Çamlıhemşin Malmüdürlüğü"
+  },
+  {
+    "id": 796,
+    "plaka": 53,
+    "il": "RİZE",
+    "ilce": "Fındıklı",
+    "muhbir_kodu": 53104,
+    "daire": "Fındıklı Malmüdürlüğü"
+  },
+  {
+    "id": 797,
+    "plaka": 53,
+    "il": "RİZE",
+    "ilce": "İkizdere",
+    "muhbir_kodu": 53105,
+    "daire": "İkizdere Malmüdürlüğü"
+  },
+  {
+    "id": 798,
+    "plaka": 53,
+    "il": "RİZE",
+    "ilce": "Kalkandere",
+    "muhbir_kodu": 53106,
+    "daire": "Kalkandere Malmüdürlüğü"
+  },
+  {
+    "id": 799,
+    "plaka": 53,
+    "il": "RİZE",
+    "ilce": "Güneysu",
+    "muhbir_kodu": 53108,
+    "daire": "Güneysu Malmüdürlüğü"
+  },
+  {
+    "id": 800,
+    "plaka": 53,
+    "il": "RİZE",
+    "ilce": "Derepazarı",
+    "muhbir_kodu": 53109,
+    "daire": "Derepazarı Malmüdürlüğü"
+  },
+  {
+    "id": 801,
+    "plaka": 53,
+    "il": "RİZE",
+    "ilce": "Hemşin",
+    "muhbir_kodu": 53110,
+    "daire": "Hemşin Malmüdürlüğü"
+  },
+  {
+    "id": 802,
+    "plaka": 53,
+    "il": "RİZE",
+    "ilce": "İyidere",
+    "muhbir_kodu": 53111,
+    "daire": "İyidere Malmüdürlüğü"
+  },
+  {
+    "id": 803,
+    "plaka": 54,
+    "il": "SAKARYA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 54250,
+    "daire": "Sakarya İhtisas Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 804,
+    "plaka": 54,
+    "il": "SAKARYA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 54251,
+    "daire": "Gümrükönü Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 805,
+    "plaka": 54,
+    "il": "SAKARYA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 54252,
+    "daire": "Ali Fuat Cebesoy Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 806,
+    "plaka": 54,
+    "il": "SAKARYA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 54253,
+    "daire": "Sapanca Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 807,
+    "plaka": 54,
+    "il": "SAKARYA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 54201,
+    "daire": "Akyazı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 808,
+    "plaka": 54,
+    "il": "SAKARYA",
+    "ilce": "Geyve",
+    "muhbir_kodu": 54202,
+    "daire": "Geyve Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 809,
+    "plaka": 54,
+    "il": "SAKARYA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 54203,
+    "daire": "Hendek Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 810,
+    "plaka": 54,
+    "il": "SAKARYA",
+    "ilce": "Karasu",
+    "muhbir_kodu": 54204,
+    "daire": "Karasu Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 811,
+    "plaka": 54,
+    "il": "SAKARYA",
+    "ilce": "Kaynarca",
+    "muhbir_kodu": 54105,
+    "daire": "Kaynarca Malmüdürlüğü"
+  },
+  {
+    "id": 812,
+    "plaka": 54,
+    "il": "SAKARYA",
+    "ilce": "Kocaali",
+    "muhbir_kodu": 54107,
+    "daire": "Kocaali Malmüdürlüğü"
+  },
+  {
+    "id": 813,
+    "plaka": 54,
+    "il": "SAKARYA",
+    "ilce": "Pamukova",
+    "muhbir_kodu": 54108,
+    "daire": "Pamukova Malmüdürlüğü"
+  },
+  {
+    "id": 814,
+    "plaka": 54,
+    "il": "SAKARYA",
+    "ilce": "Taraklı",
+    "muhbir_kodu": 54109,
+    "daire": "Taraklı Malmüdürlüğü"
+  },
+  {
+    "id": 815,
+    "plaka": 54,
+    "il": "SAKARYA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 54111,
+    "daire": "Karapürçek Malmüdürlüğü"
+  },
+  {
+    "id": 816,
+    "plaka": 55,
+    "il": "SAMSUN",
+    "ilce": "Merkez",
+    "muhbir_kodu": 55251,
+    "daire": "19 Mayıs Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 817,
+    "plaka": 55,
+    "il": "SAMSUN",
+    "ilce": "Merkez",
+    "muhbir_kodu": 55252,
+    "daire": "Gaziler Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 818,
+    "plaka": 55,
+    "il": "SAMSUN",
+    "ilce": "Merkez",
+    "muhbir_kodu": 55290,
+    "daire": "Zafer Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 819,
+    "plaka": 55,
+    "il": "SAMSUN",
+    "ilce": "Bafra",
+    "muhbir_kodu": 55202,
+    "daire": "Bafra Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 820,
+    "plaka": 55,
+    "il": "SAMSUN",
+    "ilce": "Çarşamba",
+    "muhbir_kodu": 55203,
+    "daire": "Çarşamba Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 821,
+    "plaka": 55,
+    "il": "SAMSUN",
+    "ilce": "Terme",
+    "muhbir_kodu": 55204,
+    "daire": "Terme Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 822,
+    "plaka": 55,
+    "il": "SAMSUN",
+    "ilce": "Havza",
+    "muhbir_kodu": 55205,
+    "daire": "Havza Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 823,
+    "plaka": 55,
+    "il": "SAMSUN",
+    "ilce": "Alaçam",
+    "muhbir_kodu": 55101,
+    "daire": "Alaçam Malmüdürlüğü"
+  },
+  {
+    "id": 824,
+    "plaka": 55,
+    "il": "SAMSUN",
+    "ilce": "Kavak",
+    "muhbir_kodu": 55105,
+    "daire": "Kavak Malmüdürlüğü"
+  },
+  {
+    "id": 825,
+    "plaka": 55,
+    "il": "SAMSUN",
+    "ilce": "Ladik",
+    "muhbir_kodu": 55106,
+    "daire": "Ladik Malmüdürlüğü"
+  },
+  {
+    "id": 826,
+    "plaka": 55,
+    "il": "SAMSUN",
+    "ilce": "Vezirköprü",
+    "muhbir_kodu": 55108,
+    "daire": "Vezirköprü Malmüdürlüğü"
+  },
+  {
+    "id": 827,
+    "plaka": 55,
+    "il": "SAMSUN",
+    "ilce": "Asarcık",
+    "muhbir_kodu": 55109,
+    "daire": "Asarcık Malmüdürlüğü"
+  },
+  {
+    "id": 828,
+    "plaka": 55,
+    "il": "SAMSUN",
+    "ilce": "Ondokuz Mayıs",
+    "muhbir_kodu": 55110,
+    "daire": "Ondokuz Mayıs Malmüdürlüğü"
+  },
+  {
+    "id": 829,
+    "plaka": 55,
+    "il": "SAMSUN",
+    "ilce": "Salıpazarı",
+    "muhbir_kodu": 55111,
+    "daire": "Salıpazarı Malmüdürlüğü"
+  },
+  {
+    "id": 830,
+    "plaka": 55,
+    "il": "SAMSUN",
+    "ilce": "Merkez",
+    "muhbir_kodu": 55112,
+    "daire": "Tekkeköy Malmüdürlüğü"
+  },
+  {
+    "id": 831,
+    "plaka": 55,
+    "il": "SAMSUN",
+    "ilce": "Ayvacık",
+    "muhbir_kodu": 55113,
+    "daire": "Ayvacık Malmüdürlüğü"
+  },
+  {
+    "id": 832,
+    "plaka": 55,
+    "il": "SAMSUN",
+    "ilce": "Yakakent",
+    "muhbir_kodu": 55114,
+    "daire": "Yakakent Malmüdürlüğü"
+  },
+  {
+    "id": 833,
+    "plaka": 56,
+    "il": "SİİRT",
+    "ilce": "Merkez",
+    "muhbir_kodu": 56260,
+    "daire": "Siirt Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 834,
+    "plaka": 56,
+    "il": "SİİRT",
+    "ilce": "Baykan",
+    "muhbir_kodu": 56102,
+    "daire": "Baykan Malmüdürlüğü"
+  },
+  {
+    "id": 835,
+    "plaka": 56,
+    "il": "SİİRT",
+    "ilce": "Eruh",
+    "muhbir_kodu": 56104,
+    "daire": "Eruh Malmüdürlüğü"
+  },
+  {
+    "id": 836,
+    "plaka": 56,
+    "il": "SİİRT",
+    "ilce": "Kurtalan",
+    "muhbir_kodu": 56106,
+    "daire": "Kurtalan Malmüdürlüğü"
+  },
+  {
+    "id": 837,
+    "plaka": 56,
+    "il": "SİİRT",
+    "ilce": "Pervari",
+    "muhbir_kodu": 56107,
+    "daire": "Pervari Malmüdürlüğü"
+  },
+  {
+    "id": 838,
+    "plaka": 56,
+    "il": "SİİRT",
+    "ilce": "Şirvan",
+    "muhbir_kodu": 56110,
+    "daire": "Şirvan Malmüdürlüğü"
+  },
+  {
+    "id": 839,
+    "plaka": 57,
+    "il": "SİNOP",
+    "ilce": "Merkez",
+    "muhbir_kodu": 57260,
+    "daire": "Sinop Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 840,
+    "plaka": 57,
+    "il": "SİNOP",
+    "ilce": "Boyabat",
+    "muhbir_kodu": 57261,
+    "daire": "Boyabat Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 841,
+    "plaka": 57,
+    "il": "SİNOP",
+    "ilce": "Ayancık",
+    "muhbir_kodu": 57101,
+    "daire": "Ayancık Malmüdürlüğü"
+  },
+  {
+    "id": 842,
+    "plaka": 57,
+    "il": "SİNOP",
+    "ilce": "Durağan",
+    "muhbir_kodu": 57103,
+    "daire": "Durağan Malmüdürlüğü"
+  },
+  {
+    "id": 843,
+    "plaka": 57,
+    "il": "SİNOP",
+    "ilce": "Erfelek",
+    "muhbir_kodu": 57104,
+    "daire": "Erfelek Malmüdürlüğü"
+  },
+  {
+    "id": 844,
+    "plaka": 57,
+    "il": "SİNOP",
+    "ilce": "Gerze",
+    "muhbir_kodu": 57105,
+    "daire": "Gerze Malmüdürlüğü"
+  },
+  {
+    "id": 845,
+    "plaka": 57,
+    "il": "SİNOP",
+    "ilce": "Türkeli",
+    "muhbir_kodu": 57106,
+    "daire": "Türkeli Malmüdürlüğü"
+  },
+  {
+    "id": 846,
+    "plaka": 57,
+    "il": "SİNOP",
+    "ilce": "Dikmen",
+    "muhbir_kodu": 57107,
+    "daire": "Dikmen Malmüdürlüğü"
+  },
+  {
+    "id": 847,
+    "plaka": 57,
+    "il": "SİNOP",
+    "ilce": "Saraydüzü",
+    "muhbir_kodu": 57108,
+    "daire": "Saraydüzü Malmüdürlüğü"
+  },
+  {
+    "id": 848,
+    "plaka": 58,
+    "il": "SİVAS",
+    "ilce": "Merkez",
+    "muhbir_kodu": 58201,
+    "daire": "Kale Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 849,
+    "plaka": 58,
+    "il": "SİVAS",
+    "ilce": "Merkez",
+    "muhbir_kodu": 58280,
+    "daire": "Site Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 850,
+    "plaka": 58,
+    "il": "SİVAS",
+    "ilce": "Şarkışla",
+    "muhbir_kodu": 58260,
+    "daire": "Şarkışla Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 851,
+    "plaka": 58,
+    "il": "SİVAS",
+    "ilce": "Divriği",
+    "muhbir_kodu": 58101,
+    "daire": "Divriği Malmüdürlüğü"
+  },
+  {
+    "id": 852,
+    "plaka": 58,
+    "il": "SİVAS",
+    "ilce": "Gemerek",
+    "muhbir_kodu": 58102,
+    "daire": "Gemerek Malmüdürlüğü"
+  },
+  {
+    "id": 853,
+    "plaka": 58,
+    "il": "SİVAS",
+    "ilce": "Gürün",
+    "muhbir_kodu": 58103,
+    "daire": "Gürün Malmüdürlüğü"
+  },
+  {
+    "id": 854,
+    "plaka": 58,
+    "il": "SİVAS",
+    "ilce": "Hafik",
+    "muhbir_kodu": 58104,
+    "daire": "Hafik Malmüdürlüğü"
+  },
+  {
+    "id": 855,
+    "plaka": 58,
+    "il": "SİVAS",
+    "ilce": "İmranlı",
+    "muhbir_kodu": 58105,
+    "daire": "İmranlı Malmüdürlüğü"
+  },
+  {
+    "id": 856,
+    "plaka": 58,
+    "il": "SİVAS",
+    "ilce": "Kangal",
+    "muhbir_kodu": 58106,
+    "daire": "Kangal Malmüdürlüğü"
+  },
+  {
+    "id": 857,
+    "plaka": 58,
+    "il": "SİVAS",
+    "ilce": "Koyulhisar",
+    "muhbir_kodu": 58107,
+    "daire": "Koyulhisar Malmüdürlüğü"
+  },
+  {
+    "id": 858,
+    "plaka": 58,
+    "il": "SİVAS",
+    "ilce": "Suşehri",
+    "muhbir_kodu": 58109,
+    "daire": "Suşehri Malmüdürlüğü"
+  },
+  {
+    "id": 859,
+    "plaka": 58,
+    "il": "SİVAS",
+    "ilce": "Yıldızeli",
+    "muhbir_kodu": 58110,
+    "daire": "Yıldızeli Malmüdürlüğü"
+  },
+  {
+    "id": 860,
+    "plaka": 58,
+    "il": "SİVAS",
+    "ilce": "Zara",
+    "muhbir_kodu": 58111,
+    "daire": "Zara Malmüdürlüğü"
+  },
+  {
+    "id": 861,
+    "plaka": 58,
+    "il": "SİVAS",
+    "ilce": "Akıncılar",
+    "muhbir_kodu": 58112,
+    "daire": "Akıncılar Malmüdürlüğü"
+  },
+  {
+    "id": 862,
+    "plaka": 58,
+    "il": "SİVAS",
+    "ilce": "Altınyayla",
+    "muhbir_kodu": 58113,
+    "daire": "Altınyayla Malmüdürlüğü"
+  },
+  {
+    "id": 863,
+    "plaka": 58,
+    "il": "SİVAS",
+    "ilce": "Doğanşar",
+    "muhbir_kodu": 58114,
+    "daire": "Doğanşar Malmüdürlüğü"
+  },
+  {
+    "id": 864,
+    "plaka": 58,
+    "il": "SİVAS",
+    "ilce": "Gölova",
+    "muhbir_kodu": 58115,
+    "daire": "Gölova Malmüdürlüğü"
+  },
+  {
+    "id": 865,
+    "plaka": 58,
+    "il": "SİVAS",
+    "ilce": "Ulaş",
+    "muhbir_kodu": 58116,
+    "daire": "Ulaş Malmüdürlüğü"
+  },
+  {
+    "id": 866,
+    "plaka": 59,
+    "il": "TEKİRDAĞ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 59201,
+    "daire": "Süleymanpaşa Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 867,
+    "plaka": 59,
+    "il": "TEKİRDAĞ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 59260,
+    "daire": "Namık Kemal Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 868,
+    "plaka": 59,
+    "il": "TEKİRDAĞ",
+    "ilce": "Çorlu",
+    "muhbir_kodu": 59250,
+    "daire": "Çorlu İhtisas Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 869,
+    "plaka": 59,
+    "il": "TEKİRDAĞ",
+    "ilce": "Çerkezköy",
+    "muhbir_kodu": 59261,
+    "daire": "Çerkezköy Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 870,
+    "plaka": 59,
+    "il": "TEKİRDAĞ",
+    "ilce": "Çorlu",
+    "muhbir_kodu": 59262,
+    "daire": "Çorlu Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 871,
+    "plaka": 59,
+    "il": "TEKİRDAĞ",
+    "ilce": "Hayrabolu",
+    "muhbir_kodu": 59263,
+    "daire": "Hayrabolu Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 872,
+    "plaka": 59,
+    "il": "TEKİRDAĞ",
+    "ilce": "Malkara",
+    "muhbir_kodu": 59264,
+    "daire": "Malkara Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 873,
+    "plaka": 59,
+    "il": "TEKİRDAĞ",
+    "ilce": "Muratlı",
+    "muhbir_kodu": 59265,
+    "daire": "Muratlı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 874,
+    "plaka": 59,
+    "il": "TEKİRDAĞ",
+    "ilce": "Şarköy",
+    "muhbir_kodu": 59266,
+    "daire": "Şarköy Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 875,
+    "plaka": 59,
+    "il": "TEKİRDAĞ",
+    "ilce": "Kapaklı",
+    "muhbir_kodu": 59267,
+    "daire": "Kapaklı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 876,
+    "plaka": 59,
+    "il": "TEKİRDAĞ",
+    "ilce": "Saray",
+    "muhbir_kodu": 59106,
+    "daire": "Saray Malmüdürlüğü"
+  },
+  {
+    "id": 877,
+    "plaka": 59,
+    "il": "TEKİRDAĞ",
+    "ilce": "Marmaraereğlisi",
+    "muhbir_kodu": 59108,
+    "daire": "Marmaraereğlisi Malmüdürlüğü"
+  },
+  {
+    "id": 878,
+    "plaka": 60,
+    "il": "TOKAT",
+    "ilce": "Merkez",
+    "muhbir_kodu": 60260,
+    "daire": "Tokat Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 879,
+    "plaka": 60,
+    "il": "TOKAT",
+    "ilce": "Erbaa",
+    "muhbir_kodu": 60261,
+    "daire": "Erbaa Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 880,
+    "plaka": 60,
+    "il": "TOKAT",
+    "ilce": "Niksar",
+    "muhbir_kodu": 60262,
+    "daire": "Niksar Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 881,
+    "plaka": 60,
+    "il": "TOKAT",
+    "ilce": "Turhal",
+    "muhbir_kodu": 60263,
+    "daire": "Turhal Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 882,
+    "plaka": 60,
+    "il": "TOKAT",
+    "ilce": "Zile",
+    "muhbir_kodu": 60264,
+    "daire": "Zile Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 883,
+    "plaka": 60,
+    "il": "TOKAT",
+    "ilce": "Almus",
+    "muhbir_kodu": 60101,
+    "daire": "Almus Malmüdürlüğü"
+  },
+  {
+    "id": 884,
+    "plaka": 60,
+    "il": "TOKAT",
+    "ilce": "Artova",
+    "muhbir_kodu": 60102,
+    "daire": "Artova Malmüdürlüğü"
+  },
+  {
+    "id": 885,
+    "plaka": 60,
+    "il": "TOKAT",
+    "ilce": "Reşadiye",
+    "muhbir_kodu": 60105,
+    "daire": "Reşadiye Malmüdürlüğü"
+  },
+  {
+    "id": 886,
+    "plaka": 60,
+    "il": "TOKAT",
+    "ilce": "Pazar",
+    "muhbir_kodu": 60108,
+    "daire": "Pazar Malmüdürlüğü"
+  },
+  {
+    "id": 887,
+    "plaka": 60,
+    "il": "TOKAT",
+    "ilce": "Yeşilyurt",
+    "muhbir_kodu": 60109,
+    "daire": "Yeşilyurt Malmüdürlüğü"
+  },
+  {
+    "id": 888,
+    "plaka": 60,
+    "il": "TOKAT",
+    "ilce": "Başçiftlik",
+    "muhbir_kodu": 60110,
+    "daire": "Başçiftlik Malmüdürlüğü"
+  },
+  {
+    "id": 889,
+    "plaka": 60,
+    "il": "TOKAT",
+    "ilce": "Sulusaray",
+    "muhbir_kodu": 60111,
+    "daire": "Sulusaray Malmüdürlüğü"
+  },
+  {
+    "id": 890,
+    "plaka": 61,
+    "il": "TRABZON",
+    "ilce": "Merkez",
+    "muhbir_kodu": 61201,
+    "daire": "Hızırbey Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 891,
+    "plaka": 61,
+    "il": "TRABZON",
+    "ilce": "Merkez",
+    "muhbir_kodu": 61280,
+    "daire": "Karadeniz Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 892,
+    "plaka": 61,
+    "il": "TRABZON",
+    "ilce": "Akçaabat",
+    "muhbir_kodu": 61260,
+    "daire": "Akçaabat Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 893,
+    "plaka": 61,
+    "il": "TRABZON",
+    "ilce": "Of",
+    "muhbir_kodu": 61261,
+    "daire": "Of Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 894,
+    "plaka": 61,
+    "il": "TRABZON",
+    "ilce": "Vakfıkebir",
+    "muhbir_kodu": 61262,
+    "daire": "Vakfıkebir Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 895,
+    "plaka": 61,
+    "il": "TRABZON",
+    "ilce": "Araklı",
+    "muhbir_kodu": 61102,
+    "daire": "Araklı Malmüdürlüğü"
+  },
+  {
+    "id": 896,
+    "plaka": 61,
+    "il": "TRABZON",
+    "ilce": "Arsin",
+    "muhbir_kodu": 61103,
+    "daire": "Arsin Malmüdürlüğü"
+  },
+  {
+    "id": 897,
+    "plaka": 61,
+    "il": "TRABZON",
+    "ilce": "Çaykara",
+    "muhbir_kodu": 61104,
+    "daire": "Çaykara Malmüdürlüğü"
+  },
+  {
+    "id": 898,
+    "plaka": 61,
+    "il": "TRABZON",
+    "ilce": "Maçka",
+    "muhbir_kodu": 61105,
+    "daire": "Maçka Malmüdürlüğü"
+  },
+  {
+    "id": 899,
+    "plaka": 61,
+    "il": "TRABZON",
+    "ilce": "Sürmene",
+    "muhbir_kodu": 61107,
+    "daire": "Sürmene Malmüdürlüğü"
+  },
+  {
+    "id": 900,
+    "plaka": 61,
+    "il": "TRABZON",
+    "ilce": "Tonya",
+    "muhbir_kodu": 61108,
+    "daire": "Tonya Malmüdürlüğü"
+  },
+  {
+    "id": 901,
+    "plaka": 61,
+    "il": "TRABZON",
+    "ilce": "Yomra",
+    "muhbir_kodu": 61110,
+    "daire": "Yomra Malmüdürlüğü"
+  },
+  {
+    "id": 902,
+    "plaka": 61,
+    "il": "TRABZON",
+    "ilce": "Beşikdüzü",
+    "muhbir_kodu": 61111,
+    "daire": "Beşikdüzü Malmüdürlüğü"
+  },
+  {
+    "id": 903,
+    "plaka": 61,
+    "il": "TRABZON",
+    "ilce": "Şalpazarı",
+    "muhbir_kodu": 61112,
+    "daire": "Şalpazarı Malmüdürlüğü"
+  },
+  {
+    "id": 904,
+    "plaka": 61,
+    "il": "TRABZON",
+    "ilce": "Çarşıbaşı",
+    "muhbir_kodu": 61113,
+    "daire": "Çarşıbaşı Malmüdürlüğü"
+  },
+  {
+    "id": 905,
+    "plaka": 61,
+    "il": "TRABZON",
+    "ilce": "Dernekpazarı",
+    "muhbir_kodu": 61114,
+    "daire": "Dernekpazarı Malmüdürlüğü"
+  },
+  {
+    "id": 906,
+    "plaka": 61,
+    "il": "TRABZON",
+    "ilce": "Düzköy",
+    "muhbir_kodu": 61115,
+    "daire": "Düzköy Malmüdürlüğü"
+  },
+  {
+    "id": 907,
+    "plaka": 61,
+    "il": "TRABZON",
+    "ilce": "Hayrat",
+    "muhbir_kodu": 61116,
+    "daire": "Hayrat Malmüdürlüğü"
+  },
+  {
+    "id": 908,
+    "plaka": 61,
+    "il": "TRABZON",
+    "ilce": "Köprübaşı",
+    "muhbir_kodu": 61117,
+    "daire": "Köprübaşı Malmüdürlüğü"
+  },
+  {
+    "id": 909,
+    "plaka": 62,
+    "il": "TUNCELİ",
+    "ilce": "Merkez",
+    "muhbir_kodu": 62260,
+    "daire": "Tunceli Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 910,
+    "plaka": 62,
+    "il": "TUNCELİ",
+    "ilce": "Çemişgezek",
+    "muhbir_kodu": 62101,
+    "daire": "Çemişgezek Malmüdürlüğü"
+  },
+  {
+    "id": 911,
+    "plaka": 62,
+    "il": "TUNCELİ",
+    "ilce": "Hozat",
+    "muhbir_kodu": 62102,
+    "daire": "Hozat Malmüdürlüğü"
+  },
+  {
+    "id": 912,
+    "plaka": 62,
+    "il": "TUNCELİ",
+    "ilce": "Mazgirt",
+    "muhbir_kodu": 62103,
+    "daire": "Mazgirt Malmüdürlüğü"
+  },
+  {
+    "id": 913,
+    "plaka": 62,
+    "il": "TUNCELİ",
+    "ilce": "Nazimiye",
+    "muhbir_kodu": 62104,
+    "daire": "Nazimiye Malmüdürlüğü"
+  },
+  {
+    "id": 914,
+    "plaka": 62,
+    "il": "TUNCELİ",
+    "ilce": "Ovacık",
+    "muhbir_kodu": 62105,
+    "daire": "Ovacık Malmüdürlüğü"
+  },
+  {
+    "id": 915,
+    "plaka": 62,
+    "il": "TUNCELİ",
+    "ilce": "Pertek",
+    "muhbir_kodu": 62106,
+    "daire": "Pertek Malmüdürlüğü"
+  },
+  {
+    "id": 916,
+    "plaka": 62,
+    "il": "TUNCELİ",
+    "ilce": "Pülümür",
+    "muhbir_kodu": 62107,
+    "daire": "Pülümür Malmüdürlüğü"
+  },
+  {
+    "id": 917,
+    "plaka": 63,
+    "il": "ŞANLIURFA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 63201,
+    "daire": "Şehitlik Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 918,
+    "plaka": 63,
+    "il": "ŞANLIURFA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 63280,
+    "daire": "Topçu Meydanı Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 919,
+    "plaka": 63,
+    "il": "ŞANLIURFA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 63281,
+    "daire": "Göbeklitepe Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 920,
+    "plaka": 63,
+    "il": "ŞANLIURFA",
+    "ilce": "Siverek",
+    "muhbir_kodu": 63260,
+    "daire": "Siverek Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 921,
+    "plaka": 63,
+    "il": "ŞANLIURFA",
+    "ilce": "Viranşehir",
+    "muhbir_kodu": 63261,
+    "daire": "Viranşehir Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 922,
+    "plaka": 63,
+    "il": "ŞANLIURFA",
+    "ilce": "Birecik",
+    "muhbir_kodu": 63262,
+    "daire": "Birecik Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 923,
+    "plaka": 63,
+    "il": "ŞANLIURFA",
+    "ilce": "Suruç",
+    "muhbir_kodu": 63263,
+    "daire": "Suruç Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 924,
+    "plaka": 63,
+    "il": "ŞANLIURFA",
+    "ilce": "Akçakale",
+    "muhbir_kodu": 63101,
+    "daire": "Akçakale Malmüdürlüğü"
+  },
+  {
+    "id": 925,
+    "plaka": 63,
+    "il": "ŞANLIURFA",
+    "ilce": "Bozova",
+    "muhbir_kodu": 63103,
+    "daire": "Bozova Malmüdürlüğü"
+  },
+  {
+    "id": 926,
+    "plaka": 63,
+    "il": "ŞANLIURFA",
+    "ilce": "Halfeti",
+    "muhbir_kodu": 63104,
+    "daire": "Halfeti Malmüdürlüğü"
+  },
+  {
+    "id": 927,
+    "plaka": 63,
+    "il": "ŞANLIURFA",
+    "ilce": "Hilvan",
+    "muhbir_kodu": 63105,
+    "daire": "Hilvan Malmüdürlüğü"
+  },
+  {
+    "id": 928,
+    "plaka": 63,
+    "il": "ŞANLIURFA",
+    "ilce": "Ceylanpınar",
+    "muhbir_kodu": 63109,
+    "daire": "Ceylanpınar Malmüdürlüğü"
+  },
+  {
+    "id": 929,
+    "plaka": 63,
+    "il": "ŞANLIURFA",
+    "ilce": "Harran",
+    "muhbir_kodu": 63110,
+    "daire": "Harran Malmüdürlüğü"
+  },
+  {
+    "id": 930,
+    "plaka": 64,
+    "il": "UŞAK",
+    "ilce": "Merkez",
+    "muhbir_kodu": 64260,
+    "daire": "Uşak Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 931,
+    "plaka": 64,
+    "il": "UŞAK",
+    "ilce": "Banaz",
+    "muhbir_kodu": 64261,
+    "daire": "Banaz Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 932,
+    "plaka": 64,
+    "il": "UŞAK",
+    "ilce": "Eşme",
+    "muhbir_kodu": 64262,
+    "daire": "Eşme Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 933,
+    "plaka": 64,
+    "il": "UŞAK",
+    "ilce": "Karahallı",
+    "muhbir_kodu": 64103,
+    "daire": "Karahallı Malmüdürlüğü"
+  },
+  {
+    "id": 934,
+    "plaka": 64,
+    "il": "UŞAK",
+    "ilce": "Ulubey",
+    "muhbir_kodu": 64104,
+    "daire": "Ulubey Malmüdürlüğü"
+  },
+  {
+    "id": 935,
+    "plaka": 64,
+    "il": "UŞAK",
+    "ilce": "Sivaslı",
+    "muhbir_kodu": 64105,
+    "daire": "Sivaslı Malmüdürlüğü"
+  },
+  {
+    "id": 936,
+    "plaka": 65,
+    "il": "VAN",
+    "ilce": "Merkez",
+    "muhbir_kodu": 65260,
+    "daire": "Van Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 937,
+    "plaka": 65,
+    "il": "VAN",
+    "ilce": "Erciş",
+    "muhbir_kodu": 65201,
+    "daire": "Erciş Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 938,
+    "plaka": 65,
+    "il": "VAN",
+    "ilce": "Başkale",
+    "muhbir_kodu": 65101,
+    "daire": "Başkale Malmüdürlüğü"
+  },
+  {
+    "id": 939,
+    "plaka": 65,
+    "il": "VAN",
+    "ilce": "Çatak",
+    "muhbir_kodu": 65102,
+    "daire": "Çatak Malmüdürlüğü"
+  },
+  {
+    "id": 940,
+    "plaka": 65,
+    "il": "VAN",
+    "ilce": "Gevaş",
+    "muhbir_kodu": 65104,
+    "daire": "Gevaş Malmüdürlüğü"
+  },
+  {
+    "id": 941,
+    "plaka": 65,
+    "il": "VAN",
+    "ilce": "Gürpınar",
+    "muhbir_kodu": 65105,
+    "daire": "Gürpınar Malmüdürlüğü"
+  },
+  {
+    "id": 942,
+    "plaka": 65,
+    "il": "VAN",
+    "ilce": "Muradiye",
+    "muhbir_kodu": 65106,
+    "daire": "Muradiye Malmüdürlüğü"
+  },
+  {
+    "id": 943,
+    "plaka": 65,
+    "il": "VAN",
+    "ilce": "Özalp",
+    "muhbir_kodu": 65107,
+    "daire": "Özalp Malmüdürlüğü"
+  },
+  {
+    "id": 944,
+    "plaka": 65,
+    "il": "VAN",
+    "ilce": "Bahçesaray",
+    "muhbir_kodu": 65108,
+    "daire": "Bahçesaray Malmüdürlüğü"
+  },
+  {
+    "id": 945,
+    "plaka": 65,
+    "il": "VAN",
+    "ilce": "Çaldıran",
+    "muhbir_kodu": 65109,
+    "daire": "Çaldıran Malmüdürlüğü"
+  },
+  {
+    "id": 946,
+    "plaka": 65,
+    "il": "VAN",
+    "ilce": "Edremit",
+    "muhbir_kodu": 65110,
+    "daire": "Edremit Malmüdürlüğü"
+  },
+  {
+    "id": 947,
+    "plaka": 65,
+    "il": "VAN",
+    "ilce": "Saray",
+    "muhbir_kodu": 65111,
+    "daire": "Saray Malmüdürlüğü"
+  },
+  {
+    "id": 948,
+    "plaka": 66,
+    "il": "YOZGAT",
+    "ilce": "Merkez",
+    "muhbir_kodu": 66260,
+    "daire": "Yozgat Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 949,
+    "plaka": 66,
+    "il": "YOZGAT",
+    "ilce": "Boğazlıyan",
+    "muhbir_kodu": 66261,
+    "daire": "Boğazlıyan Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 950,
+    "plaka": 66,
+    "il": "YOZGAT",
+    "ilce": "Sorgun",
+    "muhbir_kodu": 66262,
+    "daire": "Sorgun Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 951,
+    "plaka": 66,
+    "il": "YOZGAT",
+    "ilce": "Yerköy",
+    "muhbir_kodu": 66263,
+    "daire": "Yerköy Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 952,
+    "plaka": 66,
+    "il": "YOZGAT",
+    "ilce": "Akdağmadeni",
+    "muhbir_kodu": 66101,
+    "daire": "Akdağmadeni Malmüdürlüğü"
+  },
+  {
+    "id": 953,
+    "plaka": 66,
+    "il": "YOZGAT",
+    "ilce": "Çayıralan",
+    "muhbir_kodu": 66103,
+    "daire": "Çayıralan Malmüdürlüğü"
+  },
+  {
+    "id": 954,
+    "plaka": 66,
+    "il": "YOZGAT",
+    "ilce": "Çekerek",
+    "muhbir_kodu": 66104,
+    "daire": "Çekerek Malmüdürlüğü"
+  },
+  {
+    "id": 955,
+    "plaka": 66,
+    "il": "YOZGAT",
+    "ilce": "Sarıkaya",
+    "muhbir_kodu": 66105,
+    "daire": "Sarıkaya Malmüdürlüğü"
+  },
+  {
+    "id": 956,
+    "plaka": 66,
+    "il": "YOZGAT",
+    "ilce": "Şefaatli",
+    "muhbir_kodu": 66106,
+    "daire": "Şefaatli Malmüdürlüğü"
+  },
+  {
+    "id": 957,
+    "plaka": 66,
+    "il": "YOZGAT",
+    "ilce": "Aydıncık",
+    "muhbir_kodu": 66109,
+    "daire": "Aydıncık Malmüdürlüğü"
+  },
+  {
+    "id": 958,
+    "plaka": 66,
+    "il": "YOZGAT",
+    "ilce": "Çandır",
+    "muhbir_kodu": 66110,
+    "daire": "Çandır Malmüdürlüğü"
+  },
+  {
+    "id": 959,
+    "plaka": 66,
+    "il": "YOZGAT",
+    "ilce": "Kadışehri",
+    "muhbir_kodu": 66111,
+    "daire": "Kadışehri Malmüdürlüğü"
+  },
+  {
+    "id": 960,
+    "plaka": 66,
+    "il": "YOZGAT",
+    "ilce": "Saraykent",
+    "muhbir_kodu": 66112,
+    "daire": "Saraykent Malmüdürlüğü"
+  },
+  {
+    "id": 961,
+    "plaka": 66,
+    "il": "YOZGAT",
+    "ilce": "Yenifakılı",
+    "muhbir_kodu": 66113,
+    "daire": "Yenifakılı Malmüdürlüğü"
+  },
+  {
+    "id": 962,
+    "plaka": 67,
+    "il": "ZONGULDAK",
+    "ilce": "Merkez",
+    "muhbir_kodu": 67201,
+    "daire": "Uzunmehmet Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 963,
+    "plaka": 67,
+    "il": "ZONGULDAK",
+    "ilce": "Merkez",
+    "muhbir_kodu": 67280,
+    "daire": "Kara Elmas Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 964,
+    "plaka": 67,
+    "il": "ZONGULDAK",
+    "ilce": "Ereğli",
+    "muhbir_kodu": 67261,
+    "daire": "Ereğli Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 965,
+    "plaka": 67,
+    "il": "ZONGULDAK",
+    "ilce": "Çaycuma",
+    "muhbir_kodu": 67263,
+    "daire": "Çaycuma Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 966,
+    "plaka": 67,
+    "il": "ZONGULDAK",
+    "ilce": "Devrek",
+    "muhbir_kodu": 67264,
+    "daire": "Devrek Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 967,
+    "plaka": 67,
+    "il": "ZONGULDAK",
+    "ilce": "Alaplı",
+    "muhbir_kodu": 67110,
+    "daire": "Alaplı Malmüdürlüğü"
+  },
+  {
+    "id": 968,
+    "plaka": 67,
+    "il": "ZONGULDAK",
+    "ilce": "Gökçebey",
+    "muhbir_kodu": 67113,
+    "daire": "Gökçebey Malmüdürlüğü"
+  },
+  {
+    "id": 969,
+    "plaka": 68,
+    "il": "AKSARAY",
+    "ilce": "Merkez",
+    "muhbir_kodu": 68201,
+    "daire": "Aksaray Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 970,
+    "plaka": 68,
+    "il": "AKSARAY",
+    "ilce": "Ağaçören",
+    "muhbir_kodu": 68101,
+    "daire": "Ağaçören Malmüdürlüğü"
+  },
+  {
+    "id": 971,
+    "plaka": 68,
+    "il": "AKSARAY",
+    "ilce": "Güzelyurt",
+    "muhbir_kodu": 68102,
+    "daire": "Güzelyurt Malmüdürlüğü"
+  },
+  {
+    "id": 972,
+    "plaka": 68,
+    "il": "AKSARAY",
+    "ilce": "Ortaköy",
+    "muhbir_kodu": 68103,
+    "daire": "Ortaköy Malmüdürlüğü"
+  },
+  {
+    "id": 973,
+    "plaka": 68,
+    "il": "AKSARAY",
+    "ilce": "Sarıyahşi",
+    "muhbir_kodu": 68104,
+    "daire": "Sarıyahşi Malmüdürlüğü"
+  },
+  {
+    "id": 974,
+    "plaka": 68,
+    "il": "AKSARAY",
+    "ilce": "Eskil",
+    "muhbir_kodu": 68105,
+    "daire": "Eskil Malmüdürlüğü"
+  },
+  {
+    "id": 975,
+    "plaka": 68,
+    "il": "AKSARAY",
+    "ilce": "Gülağaç",
+    "muhbir_kodu": 68106,
+    "daire": "Gülağaç Malmüdürlüğü"
+  },
+  {
+    "id": 976,
+    "plaka": 68,
+    "il": "AKSARAY",
+    "ilce": "Sultanhanı",
+    "muhbir_kodu": 68107,
+    "daire": "Sultanhanı Malmüdürlüğü"
+  },
+  {
+    "id": 977,
+    "plaka": 69,
+    "il": "BAYBURT",
+    "ilce": "Merkez",
+    "muhbir_kodu": 69201,
+    "daire": "Bayburt Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 978,
+    "plaka": 69,
+    "il": "BAYBURT",
+    "ilce": "Aydıntepe",
+    "muhbir_kodu": 69101,
+    "daire": "Aydıntepe Malmüdürlüğü"
+  },
+  {
+    "id": 979,
+    "plaka": 69,
+    "il": "BAYBURT",
+    "ilce": "Demirözü",
+    "muhbir_kodu": 69102,
+    "daire": "Demirözü Malmüdürlüğü"
+  },
+  {
+    "id": 980,
+    "plaka": 70,
+    "il": "KARAMAN",
+    "ilce": "Merkez",
+    "muhbir_kodu": 70201,
+    "daire": "Karaman Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 981,
+    "plaka": 70,
+    "il": "KARAMAN",
+    "ilce": "Ayrancı",
+    "muhbir_kodu": 70101,
+    "daire": "Ayrancı Malmüdürlüğü"
+  },
+  {
+    "id": 982,
+    "plaka": 70,
+    "il": "KARAMAN",
+    "ilce": "Ermenek",
+    "muhbir_kodu": 70102,
+    "daire": "Ermenek Malmüdürlüğü"
+  },
+  {
+    "id": 983,
+    "plaka": 70,
+    "il": "KARAMAN",
+    "ilce": "Kazım Karabekir",
+    "muhbir_kodu": 70103,
+    "daire": "Kazım Karabekir Malmüdürlüğü"
+  },
+  {
+    "id": 984,
+    "plaka": 70,
+    "il": "KARAMAN",
+    "ilce": "Başyayla",
+    "muhbir_kodu": 70104,
+    "daire": "Başyayla Malmüdürlüğü"
+  },
+  {
+    "id": 985,
+    "plaka": 70,
+    "il": "KARAMAN",
+    "ilce": "Sarıveliler",
+    "muhbir_kodu": 70105,
+    "daire": "Sarıveliler Malmüdürlüğü"
+  },
+  {
+    "id": 986,
+    "plaka": 71,
+    "il": "KIRIKKALE",
+    "ilce": "Merkez",
+    "muhbir_kodu": 71201,
+    "daire": "Irmak Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 987,
+    "plaka": 71,
+    "il": "KIRIKKALE",
+    "ilce": "Merkez",
+    "muhbir_kodu": 71202,
+    "daire": "Kaletepe Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 988,
+    "plaka": 71,
+    "il": "KIRIKKALE",
+    "ilce": "Delice",
+    "muhbir_kodu": 71101,
+    "daire": "Delice Malmüdürlüğü"
+  },
+  {
+    "id": 989,
+    "plaka": 71,
+    "il": "KIRIKKALE",
+    "ilce": "Keskin",
+    "muhbir_kodu": 71102,
+    "daire": "Keskin Malmüdürlüğü"
+  },
+  {
+    "id": 990,
+    "plaka": 71,
+    "il": "KIRIKKALE",
+    "ilce": "Sulakyurt",
+    "muhbir_kodu": 71103,
+    "daire": "Sulakyurt Malmüdürlüğü"
+  },
+  {
+    "id": 991,
+    "plaka": 71,
+    "il": "KIRIKKALE",
+    "ilce": "Balışeyh",
+    "muhbir_kodu": 71105,
+    "daire": "Balışeyh Malmüdürlüğü"
+  },
+  {
+    "id": 992,
+    "plaka": 71,
+    "il": "KIRIKKALE",
+    "ilce": "Çelebi",
+    "muhbir_kodu": 71106,
+    "daire": "Çelebi Malmüdürlüğü"
+  },
+  {
+    "id": 993,
+    "plaka": 71,
+    "il": "KIRIKKALE",
+    "ilce": "Karakeçili",
+    "muhbir_kodu": 71107,
+    "daire": "Karakeçili Malmüdürlüğü"
+  },
+  {
+    "id": 994,
+    "plaka": 72,
+    "il": "BATMAN",
+    "ilce": "Merkez",
+    "muhbir_kodu": 72260,
+    "daire": "Batman Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 995,
+    "plaka": 72,
+    "il": "BATMAN",
+    "ilce": "Beşiri",
+    "muhbir_kodu": 72101,
+    "daire": "Beşiri Malmüdürlüğü"
+  },
+  {
+    "id": 996,
+    "plaka": 72,
+    "il": "BATMAN",
+    "ilce": "Gercüş",
+    "muhbir_kodu": 72102,
+    "daire": "Gercüş Malmüdürlüğü"
+  },
+  {
+    "id": 997,
+    "plaka": 72,
+    "il": "BATMAN",
+    "ilce": "Hasankeyf",
+    "muhbir_kodu": 72103,
+    "daire": "Hasankeyf Malmüdürlüğü"
+  },
+  {
+    "id": 998,
+    "plaka": 72,
+    "il": "BATMAN",
+    "ilce": "Kozluk",
+    "muhbir_kodu": 72104,
+    "daire": "Kozluk Malmüdürlüğü"
+  },
+  {
+    "id": 999,
+    "plaka": 72,
+    "il": "BATMAN",
+    "ilce": "Sason",
+    "muhbir_kodu": 72105,
+    "daire": "Sason Malmüdürlüğü"
+  },
+  {
+    "id": 1000,
+    "plaka": 73,
+    "il": "ŞIRNAK",
+    "ilce": "Merkez",
+    "muhbir_kodu": 73260,
+    "daire": "Şırnak Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 1001,
+    "plaka": 73,
+    "il": "ŞIRNAK",
+    "ilce": "Cizre",
+    "muhbir_kodu": 73261,
+    "daire": "Cizre Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 1002,
+    "plaka": 73,
+    "il": "ŞIRNAK",
+    "ilce": "Silopi",
+    "muhbir_kodu": 73262,
+    "daire": "Silopi Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 1003,
+    "plaka": 73,
+    "il": "ŞIRNAK",
+    "ilce": "Beytüşşebap",
+    "muhbir_kodu": 73101,
+    "daire": "Beytüşşebap Malmüdürlüğü"
+  },
+  {
+    "id": 1004,
+    "plaka": 73,
+    "il": "ŞIRNAK",
+    "ilce": "Güçlükonak",
+    "muhbir_kodu": 73103,
+    "daire": "Güçlükonak Malmüdürlüğü"
+  },
+  {
+    "id": 1005,
+    "plaka": 73,
+    "il": "ŞIRNAK",
+    "ilce": "İdil",
+    "muhbir_kodu": 73104,
+    "daire": "İdil Malmüdürlüğü"
+  },
+  {
+    "id": 1006,
+    "plaka": 73,
+    "il": "ŞIRNAK",
+    "ilce": "Uludere",
+    "muhbir_kodu": 73106,
+    "daire": "Uludere Malmüdürlüğü"
+  },
+  {
+    "id": 1007,
+    "plaka": 74,
+    "il": "BARTIN",
+    "ilce": "Merkez",
+    "muhbir_kodu": 74260,
+    "daire": "Bartın Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 1008,
+    "plaka": 74,
+    "il": "BARTIN",
+    "ilce": "Amasra",
+    "muhbir_kodu": 74101,
+    "daire": "Amasra Malmüdürlüğü"
+  },
+  {
+    "id": 1009,
+    "plaka": 74,
+    "il": "BARTIN",
+    "ilce": "Kurucaşile",
+    "muhbir_kodu": 74102,
+    "daire": "Kurucaşile Malmüdürlüğü"
+  },
+  {
+    "id": 1010,
+    "plaka": 74,
+    "il": "BARTIN",
+    "ilce": "Ulus",
+    "muhbir_kodu": 74103,
+    "daire": "Ulus Malmüdürlüğü"
+  },
+  {
+    "id": 1011,
+    "plaka": 75,
+    "il": "ARDAHAN",
+    "ilce": "Merkez",
+    "muhbir_kodu": 75201,
+    "daire": "Ardahan Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 1012,
+    "plaka": 75,
+    "il": "ARDAHAN",
+    "ilce": "Çıldır",
+    "muhbir_kodu": 75101,
+    "daire": "Çıldır Malmüdürlüğü"
+  },
+  {
+    "id": 1013,
+    "plaka": 75,
+    "il": "ARDAHAN",
+    "ilce": "Damal",
+    "muhbir_kodu": 75102,
+    "daire": "Damal Malmüdürlüğü"
+  },
+  {
+    "id": 1014,
+    "plaka": 75,
+    "il": "ARDAHAN",
+    "ilce": "Göle",
+    "muhbir_kodu": 75103,
+    "daire": "Göle Malmüdürlüğü"
+  },
+  {
+    "id": 1015,
+    "plaka": 75,
+    "il": "ARDAHAN",
+    "ilce": "Hanak",
+    "muhbir_kodu": 75104,
+    "daire": "Hanak Malmüdürlüğü"
+  },
+  {
+    "id": 1016,
+    "plaka": 75,
+    "il": "ARDAHAN",
+    "ilce": "Posof",
+    "muhbir_kodu": 75105,
+    "daire": "Posof Malmüdürlüğü"
+  },
+  {
+    "id": 1017,
+    "plaka": 76,
+    "il": "IĞDIR",
+    "ilce": "Merkez",
+    "muhbir_kodu": 76201,
+    "daire": "Iğdır Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 1018,
+    "plaka": 76,
+    "il": "IĞDIR",
+    "ilce": "Aralık",
+    "muhbir_kodu": 76101,
+    "daire": "Aralık Malmüdürlüğü"
+  },
+  {
+    "id": 1019,
+    "plaka": 76,
+    "il": "IĞDIR",
+    "ilce": "Karakoyunlu",
+    "muhbir_kodu": 76102,
+    "daire": "Karakoyunlu Malmüdürlüğü"
+  },
+  {
+    "id": 1020,
+    "plaka": 76,
+    "il": "IĞDIR",
+    "ilce": "Tuzluca",
+    "muhbir_kodu": 76103,
+    "daire": "Tuzluca Malmüdürlüğü"
+  },
+  {
+    "id": 1021,
+    "plaka": 77,
+    "il": "YALOVA",
+    "ilce": "Merkez",
+    "muhbir_kodu": 77201,
+    "daire": "Yalova Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 1022,
+    "plaka": 77,
+    "il": "YALOVA",
+    "ilce": "Altınova",
+    "muhbir_kodu": 77101,
+    "daire": "Altınova Malmüdürlüğü"
+  },
+  {
+    "id": 1023,
+    "plaka": 77,
+    "il": "YALOVA",
+    "ilce": "Armutlu",
+    "muhbir_kodu": 77102,
+    "daire": "Armutlu Malmüdürlüğü"
+  },
+  {
+    "id": 1024,
+    "plaka": 77,
+    "il": "YALOVA",
+    "ilce": "Çınarcık",
+    "muhbir_kodu": 77103,
+    "daire": "Çınarcık Malmüdürlüğü"
+  },
+  {
+    "id": 1025,
+    "plaka": 78,
+    "il": "KARABÜK",
+    "ilce": "Merkez",
+    "muhbir_kodu": 78201,
+    "daire": "Karabük Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 1026,
+    "plaka": 78,
+    "il": "KARABÜK",
+    "ilce": "Safranbolu",
+    "muhbir_kodu": 78260,
+    "daire": "Safranbolu Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 1027,
+    "plaka": 78,
+    "il": "KARABÜK",
+    "ilce": "Eflani",
+    "muhbir_kodu": 78101,
+    "daire": "Eflani Malmüdürlüğü"
+  },
+  {
+    "id": 1028,
+    "plaka": 78,
+    "il": "KARABÜK",
+    "ilce": "Eskipazar",
+    "muhbir_kodu": 78102,
+    "daire": "Eskipazar Malmüdürlüğü"
+  },
+  {
+    "id": 1029,
+    "plaka": 78,
+    "il": "KARABÜK",
+    "ilce": "Ovacık",
+    "muhbir_kodu": 78103,
+    "daire": "Ovacık Malmüdürlüğü"
+  },
+  {
+    "id": 1030,
+    "plaka": 78,
+    "il": "KARABÜK",
+    "ilce": "Yenice",
+    "muhbir_kodu": 78105,
+    "daire": "Yenice Malmüdürlüğü"
+  },
+  {
+    "id": 1031,
+    "plaka": 79,
+    "il": "KİLİS",
+    "ilce": "Merkez",
+    "muhbir_kodu": 79201,
+    "daire": "Kilis Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 1032,
+    "plaka": 80,
+    "il": "OSMANİYE",
+    "ilce": "Merkez",
+    "muhbir_kodu": 80201,
+    "daire": "Osmaniye Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 1033,
+    "plaka": 80,
+    "il": "OSMANİYE",
+    "ilce": "Kadirli",
+    "muhbir_kodu": 80260,
+    "daire": "Kadirli Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 1034,
+    "plaka": 80,
+    "il": "OSMANİYE",
+    "ilce": "Bahçe",
+    "muhbir_kodu": 80101,
+    "daire": "Bahçe Malmüdürlüğü"
+  },
+  {
+    "id": 1035,
+    "plaka": 80,
+    "il": "OSMANİYE",
+    "ilce": "Düziçi",
+    "muhbir_kodu": 80102,
+    "daire": "Düziçi Malmüdürlüğü"
+  },
+  {
+    "id": 1036,
+    "plaka": 80,
+    "il": "OSMANİYE",
+    "ilce": "Hasanbeyli",
+    "muhbir_kodu": 80104,
+    "daire": "Hasanbeyli Malmüdürlüğü"
+  },
+  {
+    "id": 1037,
+    "plaka": 80,
+    "il": "OSMANİYE",
+    "ilce": "Sumbas",
+    "muhbir_kodu": 80105,
+    "daire": "Sumbas Malmüdürlüğü"
+  },
+  {
+    "id": 1038,
+    "plaka": 80,
+    "il": "OSMANİYE",
+    "ilce": "Toprakkale",
+    "muhbir_kodu": 80106,
+    "daire": "Toprakkale Malmüdürlüğü"
+  },
+  {
+    "id": 1039,
+    "plaka": 81,
+    "il": "DÜZCE",
+    "ilce": "Merkez",
+    "muhbir_kodu": 81260,
+    "daire": "Düzce Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 1040,
+    "plaka": 81,
+    "il": "DÜZCE",
+    "ilce": "Akçakoca",
+    "muhbir_kodu": 81261,
+    "daire": "Akçakoca Vergi Dairesi Müdürlüğü"
+  },
+  {
+    "id": 1041,
+    "plaka": 81,
+    "il": "DÜZCE",
+    "ilce": "Cumayeri",
+    "muhbir_kodu": 81102,
+    "daire": "Cumayeri Malmüdürlüğü"
+  },
+  {
+    "id": 1042,
+    "plaka": 81,
+    "il": "DÜZCE",
+    "ilce": "Çilimli",
+    "muhbir_kodu": 81103,
+    "daire": "Çilimli Malmüdürlüğü"
+  },
+  {
+    "id": 1043,
+    "plaka": 81,
+    "il": "DÜZCE",
+    "ilce": "Gölyaka",
+    "muhbir_kodu": 81104,
+    "daire": "Gölyaka Malmüdürlüğü"
+  },
+  {
+    "id": 1044,
+    "plaka": 81,
+    "il": "DÜZCE",
+    "ilce": "Gümüşova",
+    "muhbir_kodu": 81105,
+    "daire": "Gümüşova Malmüdürlüğü"
+  },
+  {
+    "id": 1045,
+    "plaka": 81,
+    "il": "DÜZCE",
+    "ilce": "Kaynaşlı",
+    "muhbir_kodu": 81106,
+    "daire": "Kaynaşlı Malmüdürlüğü"
+  },
+  {
+    "id": 1046,
+    "plaka": 81,
+    "il": "DÜZCE",
+    "ilce": "Yığılca",
+    "muhbir_kodu": 81107,
+    "daire": "Yığılca Malmüdürlüğü"
+  }
+]
